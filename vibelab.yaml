@@ -1,0 +1,38 @@
+{
+  "app": {
+    "name": "楚河棋社",
+    "slogan": "走进立体棋社，在清晰的棋盘上与三级AI从容对弈。",
+    "description": "楚河棋社将传统象棋放进可环视的沉浸式棋社，在木桌上呈现水平摆放的3D棋盘和立体棋子。棋子带有清楚的红黑汉字，棋盘旁显示玩法、难度、关卡和当前回合，帮助你进入对局并掌握进程。玩家与对手走棋都有声音提示，最近移动的棋子分别使用金色和蓝色标记，方便找出对方刚走的位置。游戏支持随时保存本地对局与关卡进度，重新进入后继续。\n\n- 人机对弈提供初级、中级和高级，可按自己的熟练程度选择。\n- 闯关挑战可按关卡编号生成合法局面，残局学棋提供一步将死练习，并记录通关进度和最佳步数。\n- 选中棋子后显示合法落点，支持走棋提示、悔棋和查看规则。\n- 提供将军、将死与无子可走等基本判断，终局自动显示胜负或和棋提示。\n\n操作时先选择己方棋子，再选择目标位置完成落子。可根据回合提示等待对手回应，再继续下一着。适合独自练习、熟悉象棋基本走法或在棋社环境里进行休闲对局。",
+    "tags": [
+      "象棋",
+      "策略",
+      "休闲"
+    ],
+    "category": "game",
+    "icon": "assets/icon.jpg",
+    "landscape": "assets/landscape.png",
+    "detail_images": [
+      "assets/detail-1.png",
+      "assets/detail-2.png",
+      "assets/detail-3.png",
+      "assets/detail-4.png",
+      "assets/detail-5.png"
+    ],
+    "videos": []
+  },
+  "version": {
+    "name": "1.5",
+    "notes": "首次上传楚河棋社，包含三级人机对弈、闯关挑战和残局学棋；采用水平低位棋盘与棋社环境，双方走棋提供声音及最近棋步标记；模式、关卡和游戏结果在棋盘旁显示。保留本地对局与关卡恢复，减少棋社实时灯光数量，并更换象棋主题应用图标。"
+  },
+  "build": {
+    "repo_url": "https://github.com/shanzhasuan/ChuHeXiangqi",
+    "repo_visibility": "public",
+    "tech_stack": "android_spatial",
+    "ai_tool": "Trae CLI",
+    "ai_model": "GPT-6",
+    "features": [
+      "none"
+    ],
+    "teammates": []
+  }
+}

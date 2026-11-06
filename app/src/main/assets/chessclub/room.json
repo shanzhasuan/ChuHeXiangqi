@@ -1,0 +1,1925 @@
+{
+  "schema": "chessclub-room/v1",
+  "units": "meters",
+  "upAxis": "Y",
+  "boxes": [
+    {
+      "name": "Floor",
+      "position": [
+        0,
+        -0.04,
+        -0.75
+      ],
+      "size": [
+        7.2,
+        0.08,
+        7.5
+      ],
+      "material": "floor"
+    },
+    {
+      "name": "Ceiling",
+      "position": [
+        0,
+        3.12,
+        -0.75
+      ],
+      "size": [
+        7.2,
+        0.08,
+        7.5
+      ],
+      "material": "plaster"
+    },
+    {
+      "name": "SideWall-1",
+      "position": [
+        -3.65,
+        1.55,
+        -0.75
+      ],
+      "size": [
+        0.12,
+        3.1,
+        7.5
+      ],
+      "material": "plaster"
+    },
+    {
+      "name": "SideWainscot-1",
+      "position": [
+        -3.575,
+        0.4,
+        -0.75
+      ],
+      "size": [
+        0.028,
+        0.8,
+        7.5
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "SideCornice-1",
+      "position": [
+        -3.535,
+        2.96,
+        -0.75
+      ],
+      "size": [
+        0.055,
+        0.095,
+        7.5
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "SideWall1",
+      "position": [
+        3.65,
+        1.55,
+        -0.75
+      ],
+      "size": [
+        0.12,
+        3.1,
+        7.5
+      ],
+      "material": "plaster"
+    },
+    {
+      "name": "SideWainscot1",
+      "position": [
+        3.575,
+        0.4,
+        -0.75
+      ],
+      "size": [
+        0.028,
+        0.8,
+        7.5
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "SideCornice1",
+      "position": [
+        3.535,
+        2.96,
+        -0.75
+      ],
+      "size": [
+        0.055,
+        0.095,
+        7.5
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "EndWall-4.55",
+      "position": [
+        0,
+        1.55,
+        -4.55
+      ],
+      "size": [
+        7.2,
+        3.1,
+        0.12
+      ],
+      "material": "plaster"
+    },
+    {
+      "name": "EndWainscot-4.55",
+      "position": [
+        0,
+        0.4,
+        -4.475
+      ],
+      "size": [
+        7.2,
+        0.8,
+        0.028
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "EndWall3.05",
+      "position": [
+        0,
+        1.55,
+        3.05
+      ],
+      "size": [
+        7.2,
+        3.1,
+        0.12
+      ],
+      "material": "plaster"
+    },
+    {
+      "name": "EndWainscot3.05",
+      "position": [
+        0,
+        0.4,
+        2.9749999999999996
+      ],
+      "size": [
+        7.2,
+        0.8,
+        0.028
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowGlass-1",
+      "position": [
+        -3.535,
+        1.85,
+        -2.5
+      ],
+      "size": [
+        0.014,
+        1.45,
+        2.45
+      ],
+      "material": "window"
+    },
+    {
+      "name": "WindowFrameV",
+      "position": [
+        -3.49,
+        1.85,
+        -3.75
+      ],
+      "size": [
+        0.055,
+        1.57,
+        0.06
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowFrameV",
+      "position": [
+        -3.49,
+        1.85,
+        -1.25
+      ],
+      "size": [
+        0.055,
+        1.57,
+        0.06
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowFrameH",
+      "position": [
+        -3.49,
+        1.095,
+        -2.5
+      ],
+      "size": [
+        0.055,
+        0.06,
+        2.56
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowFrameH",
+      "position": [
+        -3.49,
+        2.605,
+        -2.5
+      ],
+      "size": [
+        0.055,
+        0.06,
+        2.56
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowMullion",
+      "position": [
+        -3.49,
+        1.85,
+        -3.35
+      ],
+      "size": [
+        0.042,
+        1.46,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowMullion",
+      "position": [
+        -3.49,
+        1.85,
+        -2.925
+      ],
+      "size": [
+        0.042,
+        1.46,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowMullion",
+      "position": [
+        -3.49,
+        1.85,
+        -2.5
+      ],
+      "size": [
+        0.042,
+        1.46,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowMullion",
+      "position": [
+        -3.49,
+        1.85,
+        -2.075
+      ],
+      "size": [
+        0.042,
+        1.46,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowMullion",
+      "position": [
+        -3.49,
+        1.85,
+        -1.65
+      ],
+      "size": [
+        0.042,
+        1.46,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowCrossbar",
+      "position": [
+        -3.49,
+        1.43,
+        -2.5
+      ],
+      "size": [
+        0.042,
+        0.025,
+        2.44
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowCrossbar",
+      "position": [
+        -3.49,
+        1.85,
+        -2.5
+      ],
+      "size": [
+        0.042,
+        0.025,
+        2.44
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowCrossbar",
+      "position": [
+        -3.49,
+        2.27,
+        -2.5
+      ],
+      "size": [
+        0.042,
+        0.025,
+        2.44
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowGlass1",
+      "position": [
+        3.535,
+        1.85,
+        -2.5
+      ],
+      "size": [
+        0.014,
+        1.45,
+        2.45
+      ],
+      "material": "window"
+    },
+    {
+      "name": "WindowFrameV",
+      "position": [
+        3.49,
+        1.85,
+        -3.75
+      ],
+      "size": [
+        0.055,
+        1.57,
+        0.06
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowFrameV",
+      "position": [
+        3.49,
+        1.85,
+        -1.25
+      ],
+      "size": [
+        0.055,
+        1.57,
+        0.06
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowFrameH",
+      "position": [
+        3.49,
+        1.095,
+        -2.5
+      ],
+      "size": [
+        0.055,
+        0.06,
+        2.56
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowFrameH",
+      "position": [
+        3.49,
+        2.605,
+        -2.5
+      ],
+      "size": [
+        0.055,
+        0.06,
+        2.56
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowMullion",
+      "position": [
+        3.49,
+        1.85,
+        -3.35
+      ],
+      "size": [
+        0.042,
+        1.46,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowMullion",
+      "position": [
+        3.49,
+        1.85,
+        -2.925
+      ],
+      "size": [
+        0.042,
+        1.46,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowMullion",
+      "position": [
+        3.49,
+        1.85,
+        -2.5
+      ],
+      "size": [
+        0.042,
+        1.46,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowMullion",
+      "position": [
+        3.49,
+        1.85,
+        -2.075
+      ],
+      "size": [
+        0.042,
+        1.46,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowMullion",
+      "position": [
+        3.49,
+        1.85,
+        -1.65
+      ],
+      "size": [
+        0.042,
+        1.46,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowCrossbar",
+      "position": [
+        3.49,
+        1.43,
+        -2.5
+      ],
+      "size": [
+        0.042,
+        0.025,
+        2.44
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowCrossbar",
+      "position": [
+        3.49,
+        1.85,
+        -2.5
+      ],
+      "size": [
+        0.042,
+        0.025,
+        2.44
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "WindowCrossbar",
+      "position": [
+        3.49,
+        2.27,
+        -2.5
+      ],
+      "size": [
+        0.042,
+        0.025,
+        2.44
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable-1.85Top",
+      "position": [
+        -1.85,
+        0.7225,
+        -3.45
+      ],
+      "size": [
+        1.05,
+        0.065,
+        1.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable-1.85Leg",
+      "position": [
+        -2.2750000000000004,
+        0.345,
+        -3.875
+      ],
+      "size": [
+        0.075,
+        0.69,
+        0.075
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable-1.85Leg",
+      "position": [
+        -2.2750000000000004,
+        0.345,
+        -3.0250000000000004
+      ],
+      "size": [
+        0.075,
+        0.69,
+        0.075
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable-1.85Leg",
+      "position": [
+        -1.425,
+        0.345,
+        -3.875
+      ],
+      "size": [
+        0.075,
+        0.69,
+        0.075
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable-1.85Leg",
+      "position": [
+        -1.425,
+        0.345,
+        -3.0250000000000004
+      ],
+      "size": [
+        0.075,
+        0.69,
+        0.075
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable-1.85Apron",
+      "position": [
+        -2.285,
+        0.625,
+        -3.45
+      ],
+      "size": [
+        0.045,
+        0.13,
+        0.89
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable-1.85Apron",
+      "position": [
+        -1.415,
+        0.625,
+        -3.45
+      ],
+      "size": [
+        0.045,
+        0.13,
+        0.89
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable1.85Top",
+      "position": [
+        1.85,
+        0.7225,
+        -3.45
+      ],
+      "size": [
+        1.05,
+        0.065,
+        1.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable1.85Leg",
+      "position": [
+        1.425,
+        0.345,
+        -3.875
+      ],
+      "size": [
+        0.075,
+        0.69,
+        0.075
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable1.85Leg",
+      "position": [
+        1.425,
+        0.345,
+        -3.0250000000000004
+      ],
+      "size": [
+        0.075,
+        0.69,
+        0.075
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable1.85Leg",
+      "position": [
+        2.2750000000000004,
+        0.345,
+        -3.875
+      ],
+      "size": [
+        0.075,
+        0.69,
+        0.075
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable1.85Leg",
+      "position": [
+        2.2750000000000004,
+        0.345,
+        -3.0250000000000004
+      ],
+      "size": [
+        0.075,
+        0.69,
+        0.075
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable1.85Apron",
+      "position": [
+        1.415,
+        0.625,
+        -3.45
+      ],
+      "size": [
+        0.045,
+        0.13,
+        0.89
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubTable1.85Apron",
+      "position": [
+        2.285,
+        0.625,
+        -3.45
+      ],
+      "size": [
+        0.045,
+        0.13,
+        0.89
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairSeat",
+      "position": [
+        0,
+        0.455,
+        -2.63
+      ],
+      "size": [
+        0.5,
+        0.055,
+        0.48
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairLeg",
+      "position": [
+        -0.205,
+        0.215,
+        -2.82
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairLeg",
+      "position": [
+        -0.205,
+        0.215,
+        -2.44
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairLeg",
+      "position": [
+        0.205,
+        0.215,
+        -2.82
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairLeg",
+      "position": [
+        0.205,
+        0.215,
+        -2.44
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairPost",
+      "position": [
+        -0.22,
+        0.7,
+        -2.8449999999999998
+      ],
+      "size": [
+        0.045,
+        0.54,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairPost",
+      "position": [
+        0.22,
+        0.7,
+        -2.8449999999999998
+      ],
+      "size": [
+        0.045,
+        0.54,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairTop",
+      "position": [
+        0,
+        0.99,
+        -2.8449999999999998
+      ],
+      "size": [
+        0.49,
+        0.055,
+        0.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairLowerRail",
+      "position": [
+        0,
+        0.59,
+        -2.8449999999999998
+      ],
+      "size": [
+        0.49,
+        0.06,
+        0.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairSlat",
+      "position": [
+        -0.13,
+        0.785,
+        -2.8449999999999998
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairSlat",
+      "position": [
+        0,
+        0.785,
+        -2.8449999999999998
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "OpponentChairSlat",
+      "position": [
+        0.13,
+        0.785,
+        -2.8449999999999998
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairSeat",
+      "position": [
+        -1.85,
+        0.455,
+        -4.2
+      ],
+      "size": [
+        0.5,
+        0.055,
+        0.48
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairLeg",
+      "position": [
+        -2.055,
+        0.215,
+        -4.390000000000001
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairLeg",
+      "position": [
+        -2.055,
+        0.215,
+        -4.01
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairLeg",
+      "position": [
+        -1.645,
+        0.215,
+        -4.390000000000001
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairLeg",
+      "position": [
+        -1.645,
+        0.215,
+        -4.01
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairPost",
+      "position": [
+        -2.0700000000000003,
+        0.7,
+        -4.415
+      ],
+      "size": [
+        0.045,
+        0.54,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairPost",
+      "position": [
+        -1.6300000000000001,
+        0.7,
+        -4.415
+      ],
+      "size": [
+        0.045,
+        0.54,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairTop",
+      "position": [
+        -1.85,
+        0.99,
+        -4.415
+      ],
+      "size": [
+        0.49,
+        0.055,
+        0.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairLowerRail",
+      "position": [
+        -1.85,
+        0.59,
+        -4.415
+      ],
+      "size": [
+        0.49,
+        0.06,
+        0.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairSlat",
+      "position": [
+        -1.98,
+        0.785,
+        -4.415
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairSlat",
+      "position": [
+        -1.85,
+        0.785,
+        -4.415
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairSlat",
+      "position": [
+        -1.7200000000000002,
+        0.785,
+        -4.415
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairSeat",
+      "position": [
+        -1.85,
+        0.455,
+        -2.7
+      ],
+      "size": [
+        0.5,
+        0.055,
+        0.48
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairLeg",
+      "position": [
+        -2.055,
+        0.215,
+        -2.89
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairLeg",
+      "position": [
+        -2.055,
+        0.215,
+        -2.5100000000000002
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairLeg",
+      "position": [
+        -1.645,
+        0.215,
+        -2.89
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairLeg",
+      "position": [
+        -1.645,
+        0.215,
+        -2.5100000000000002
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairPost",
+      "position": [
+        -2.0700000000000003,
+        0.7,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.045,
+        0.54,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairPost",
+      "position": [
+        -1.6300000000000001,
+        0.7,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.045,
+        0.54,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairTop",
+      "position": [
+        -1.85,
+        0.99,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.49,
+        0.055,
+        0.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairLowerRail",
+      "position": [
+        -1.85,
+        0.59,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.49,
+        0.06,
+        0.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairSlat",
+      "position": [
+        -1.98,
+        0.785,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairSlat",
+      "position": [
+        -1.85,
+        0.785,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairSlat",
+      "position": [
+        -1.7200000000000002,
+        0.785,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairSeat",
+      "position": [
+        1.85,
+        0.455,
+        -4.2
+      ],
+      "size": [
+        0.5,
+        0.055,
+        0.48
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairLeg",
+      "position": [
+        1.645,
+        0.215,
+        -4.390000000000001
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairLeg",
+      "position": [
+        1.645,
+        0.215,
+        -4.01
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairLeg",
+      "position": [
+        2.055,
+        0.215,
+        -4.390000000000001
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairLeg",
+      "position": [
+        2.055,
+        0.215,
+        -4.01
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairPost",
+      "position": [
+        1.6300000000000001,
+        0.7,
+        -4.415
+      ],
+      "size": [
+        0.045,
+        0.54,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairPost",
+      "position": [
+        2.0700000000000003,
+        0.7,
+        -4.415
+      ],
+      "size": [
+        0.045,
+        0.54,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairTop",
+      "position": [
+        1.85,
+        0.99,
+        -4.415
+      ],
+      "size": [
+        0.49,
+        0.055,
+        0.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairLowerRail",
+      "position": [
+        1.85,
+        0.59,
+        -4.415
+      ],
+      "size": [
+        0.49,
+        0.06,
+        0.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairSlat",
+      "position": [
+        1.7200000000000002,
+        0.785,
+        -4.415
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairSlat",
+      "position": [
+        1.85,
+        0.785,
+        -4.415
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "FarChairSlat",
+      "position": [
+        1.98,
+        0.785,
+        -4.415
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairSeat",
+      "position": [
+        1.85,
+        0.455,
+        -2.7
+      ],
+      "size": [
+        0.5,
+        0.055,
+        0.48
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairLeg",
+      "position": [
+        1.645,
+        0.215,
+        -2.89
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairLeg",
+      "position": [
+        1.645,
+        0.215,
+        -2.5100000000000002
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairLeg",
+      "position": [
+        2.055,
+        0.215,
+        -2.89
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairLeg",
+      "position": [
+        2.055,
+        0.215,
+        -2.5100000000000002
+      ],
+      "size": [
+        0.045,
+        0.43,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairPost",
+      "position": [
+        1.6300000000000001,
+        0.7,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.045,
+        0.54,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairPost",
+      "position": [
+        2.0700000000000003,
+        0.7,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.045,
+        0.54,
+        0.045
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairTop",
+      "position": [
+        1.85,
+        0.99,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.49,
+        0.055,
+        0.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairLowerRail",
+      "position": [
+        1.85,
+        0.59,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.49,
+        0.06,
+        0.05
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairSlat",
+      "position": [
+        1.7200000000000002,
+        0.785,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairSlat",
+      "position": [
+        1.85,
+        0.785,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "NearChairSlat",
+      "position": [
+        1.98,
+        0.785,
+        -2.4850000000000003
+      ],
+      "size": [
+        0.045,
+        0.39,
+        0.025
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "ClubSignBack",
+      "position": [
+        0,
+        2.0,
+        -4.405
+      ],
+      "size": [
+        1.82,
+        0.52,
+        0.055
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "CeilingBeam",
+      "position": [
+        -2.1,
+        3.015,
+        -0.75
+      ],
+      "size": [
+        0.095,
+        0.15,
+        7.4
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "CeilingBeam",
+      "position": [
+        2.1,
+        3.015,
+        -0.75
+      ],
+      "size": [
+        0.095,
+        0.15,
+        7.4
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "CeilingCrossbeam",
+      "position": [
+        0,
+        3.015,
+        -2.0
+      ],
+      "size": [
+        7.12,
+        0.15,
+        0.095
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "CeilingLampHousing",
+      "position": [
+        -1.35,
+        2.99,
+        -1.8
+      ],
+      "size": [
+        0.72,
+        0.065,
+        0.34
+      ],
+      "material": "dark"
+    },
+    {
+      "name": "CeilingLampDiffuser",
+      "position": [
+        -1.35,
+        2.955,
+        -1.8
+      ],
+      "size": [
+        0.67,
+        0.012,
+        0.29
+      ],
+      "material": "lamp"
+    },
+    {
+      "name": "CeilingLampHousing",
+      "position": [
+        1.35,
+        2.99,
+        -1.8
+      ],
+      "size": [
+        0.72,
+        0.065,
+        0.34
+      ],
+      "material": "dark"
+    },
+    {
+      "name": "CeilingLampDiffuser",
+      "position": [
+        1.35,
+        2.955,
+        -1.8
+      ],
+      "size": [
+        0.67,
+        0.012,
+        0.29
+      ],
+      "material": "lamp"
+    },
+    {
+      "name": "Cabinet",
+      "position": [
+        2.72,
+        0.62,
+        -4.23
+      ],
+      "size": [
+        1.1,
+        1.24,
+        0.4
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "CabinetShelf",
+      "position": [
+        2.72,
+        0.08,
+        -4.0
+      ],
+      "size": [
+        1.05,
+        0.038,
+        0.4
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "CabinetShelf",
+      "position": [
+        2.72,
+        0.47,
+        -4.0
+      ],
+      "size": [
+        1.05,
+        0.038,
+        0.4
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "CabinetShelf",
+      "position": [
+        2.72,
+        0.88,
+        -4.0
+      ],
+      "size": [
+        1.05,
+        0.038,
+        0.4
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "CabinetShelf",
+      "position": [
+        2.72,
+        1.25,
+        -4.0
+      ],
+      "size": [
+        1.05,
+        0.038,
+        0.4
+      ],
+      "material": "wood"
+    },
+    {
+      "name": "Book0",
+      "position": [
+        2.28,
+        0.62368984645404,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.26937969290808,
+        0.17
+      ],
+      "material": "book0"
+    },
+    {
+      "name": "Book1",
+      "position": [
+        2.3499999999999996,
+        0.6330149440599734,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.28802988811994684,
+        0.17
+      ],
+      "material": "book1"
+    },
+    {
+      "name": "Book2",
+      "position": [
+        2.42,
+        0.6412217571095828,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.3044435142191656,
+        0.17
+      ],
+      "material": "book2"
+    },
+    {
+      "name": "Book3",
+      "position": [
+        2.4899999999999998,
+        0.6254200456986272,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.2728400913972543,
+        0.17
+      ],
+      "material": "book0"
+    },
+    {
+      "name": "Book4",
+      "position": [
+        2.5599999999999996,
+        0.6218258168021902,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.26565163360438027,
+        0.17
+      ],
+      "material": "book1"
+    },
+    {
+      "name": "Book5",
+      "position": [
+        2.63,
+        0.6478239435878294,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.3176478871756587,
+        0.17
+      ],
+      "material": "book2"
+    },
+    {
+      "name": "Book6",
+      "position": [
+        2.6999999999999997,
+        0.6331466057284147,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.28829321145682946,
+        0.17
+      ],
+      "material": "book0"
+    },
+    {
+      "name": "Book7",
+      "position": [
+        2.77,
+        0.64743803671736,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.3168760734347199,
+        0.17
+      ],
+      "material": "book1"
+    },
+    {
+      "name": "Book8",
+      "position": [
+        2.84,
+        0.6417550011198876,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.30551000223977515,
+        0.17
+      ],
+      "material": "book2"
+    },
+    {
+      "name": "Book9",
+      "position": [
+        2.91,
+        0.6414379356010202,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.30487587120204057,
+        0.17
+      ],
+      "material": "book0"
+    },
+    {
+      "name": "Book10",
+      "position": [
+        2.98,
+        0.6416408887511248,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.30528177750224955,
+        0.17
+      ],
+      "material": "book1"
+    },
+    {
+      "name": "Book11",
+      "position": [
+        3.05,
+        0.6282404769932391,
+        -3.99
+      ],
+      "size": [
+        0.043,
+        0.2784809539864784,
+        0.17
+      ],
+      "material": "book2"
+    }
+  ]
+}

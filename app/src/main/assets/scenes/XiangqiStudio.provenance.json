@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "spatialcraft.editor-pack-provenance/v1",
+  "managed": false,
+  "generatedAt": "2026-11-05T12:24:43.050Z",
+  "bundle": {
+    "path": "C:\\Users\\Admin\\Documents\\Trae-CN\\Projects\\NewGame_20261105_01\\app\\src\\main\\assets\\scenes\\XiangqiStudio.bundle",
+    "digest": {
+      "algorithm": "sha256",
+      "value": "eb0727791152edba61a341a117579e788ded3cf5bba78c393265f553e134aadd"
+    },
+    "scenesPath": "C:\\Users\\Admin\\Documents\\Trae-CN\\Projects\\NewGame_20261105_01\\app\\src\\main\\assets\\scenes\\XiangqiStudio.scenes.json",
+    "scenesDigest": {
+      "algorithm": "sha256",
+      "value": "b9eed699412f89abfd5df98ba9f7bbe46fcb3647b96ee9dea55bfb4d4beeeb50"
+    },
+    "entryScene": "Sources/Scenes/XiangqiTable.usda",
+    "sceneCount": 1
+  },
+  "packageGate": {
+    "status": "pass",
+    "sceneManifestWritten": true,
+    "acceptedSceneMatched": true
+  },
+  "warnings": [
+    {
+      "code": "UNMANAGED_EDITOR_PACKAGE",
+      "message": "This bundle was packaged outside a managed Spatial Editor Workflow Run and has no accepted revision or gate proof."
+    }
+  ]
+}
