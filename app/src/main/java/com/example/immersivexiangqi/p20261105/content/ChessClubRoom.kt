@@ -98,8 +98,8 @@ internal class ChessClubRoom private constructor(
                 if (i % 4 == 3) yield()
             }
             val ibl = withContext(Dispatchers.IO) {
-                TextureResource.load("chessclub/ambient.png", option = ImageBasedLightingGenerationOption().apply {
-                    desiredCubemapFaceSize = 128L
+                TextureResource.load("chessclub/ambient_lighting.ktx", option = TextureCreateOption().apply {
+                    textureEncoding = TextureEncoding.LINEAR
                 })
             }
             val environment = Entity().apply {

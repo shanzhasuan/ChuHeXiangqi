@@ -111,8 +111,6 @@ fun HomeStage() {
             }
             val status=modeSummary(game)+(game.result?.let { " outcome=${it.winner} ${it.message}" } ?: " turn=${game.position.turn}")
             if(state.renderedStatus!=status) {
-                state.statusPanel?.components?.get<AccessibilityComponent>()?.value=status
-                state.outcomePanel?.components?.get<AccessibilityComponent>()?.value=game.result?.message ?: "无结束提示"
                 state.renderedStatus=status
             }
             if(state.ready) {
@@ -140,7 +138,6 @@ fun HomeStage() {
                 val legal=game.legalDestinations
                 state.cells.forEachIndexed {i,cell->
                     val p=game.position.cells[i]
-                    cell.components.get<AccessibilityComponent>()?.value=(p?.let {"${if(it.side==Side.RED) "红" else "黑"}${it.label}"}?:"空位")+(if(i in legal) "，可落子" else "")+(if(game.selected==i) "，已选择" else "")+(if(game.hintMove?.to==i) "，提示落点" else "")
                     state.legalMarkers[i].enabled=i in legal
                     state.selectedMarkers[i].enabled=game.selected==i||game.hintMove?.to==i
                 }

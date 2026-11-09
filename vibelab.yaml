@@ -17,13 +17,13 @@
 
 
         操作时先选择己方棋子，再选择目标位置完成落子。可根据回合提示等待对手回应，再继续下一着。适合独自练习、熟悉象棋基本走法或在棋社环境里进行休闲对局。",
-      "tags": [ "象棋", "策略", "休闲" ],
+      "tags": ["策略解谜"],
       "category": "game",
       "icon": "assets/icon.jpg",
       "landscape": "assets/landscape.png",
       "detail_images": [ "assets/detail-1.png", "assets/detail-2.png", "assets/detail-3.png", "assets/detail-4.png", "assets/detail-5.png" ],
       "videos": []
     },
-  "version": { "name": "1.5", "notes": "首次上传楚河棋社，包含三级人机对弈、闯关挑战和残局学棋；采用水平低位棋盘与棋社环境，双方走棋提供声音及最近棋步标记；模式、关卡和游戏结果在棋盘旁显示。保留本地对局与关卡恢复，减少棋社实时灯光数量，并更换象棋主题应用图标。" },
+  "version": { "name": "1.5", "notes": "修复线上打包依赖，使用公开 Spatial SDK 6.1.9 和匹配场景包。首次上传楚河棋社，包含三级人机对弈、闯关挑战和残局学棋；采用水平低位棋盘与棋社环境，双方走棋提供声音及最近棋步标记；模式、关卡和游戏结果在棋盘旁显示。保留本地对局与关卡恢复，减少棋社实时灯光数量，并更换象棋主题应用图标。" },
   "build": { "repo_url": "https://github.com/shanzhasuan/ChuHeXiangqi", "repo_visibility": "public", "tech_stack": "android_spatial", "ai_tool": "Trae CLI", "ai_model": "GPT-6", "features": [ "none" ], "teammates": [] }
 }

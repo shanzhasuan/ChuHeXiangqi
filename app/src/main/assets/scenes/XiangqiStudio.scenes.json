@@ -1,6 +1,4 @@
 {
-  "activeScenePath": "Sources/Scenes/XiangqiTable.usda",
-  "detail": "full",
   "scenes": [
     {
       "bundlePath": "Sources/Scenes/XiangqiTable.usda",
@@ -28,7 +26,6 @@
           "name": "ChessAssembly",
           "parentPath": "Root",
           "path": "Root/ChessAssembly",
-          "protocolEntityId": "entity_123253187594420264",
           "resources": {},
           "transform": {
             "position": [
@@ -58,7 +55,6 @@
           "name": "Board",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Board",
-          "protocolEntityId": "entity_123253187594420272",
           "resources": {},
           "transform": {
             "position": [
@@ -88,7 +84,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Board",
           "path": "Root/ChessAssembly/Board/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420273",
           "resources": {},
           "transform": {
             "position": [
@@ -118,7 +113,6 @@
           "name": "FrameLeft",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/FrameLeft",
-          "protocolEntityId": "entity_123253187594420281",
           "resources": {},
           "transform": {
             "position": [
@@ -148,7 +142,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/FrameLeft",
           "path": "Root/ChessAssembly/FrameLeft/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420282",
           "resources": {},
           "transform": {
             "position": [
@@ -178,7 +171,6 @@
           "name": "FrameRight",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/FrameRight",
-          "protocolEntityId": "entity_123253187594420290",
           "resources": {},
           "transform": {
             "position": [
@@ -208,7 +200,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/FrameRight",
           "path": "Root/ChessAssembly/FrameRight/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420291",
           "resources": {},
           "transform": {
             "position": [
@@ -238,7 +229,6 @@
           "name": "FrameFront",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/FrameFront",
-          "protocolEntityId": "entity_123253187594420299",
           "resources": {},
           "transform": {
             "position": [
@@ -268,7 +258,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/FrameFront",
           "path": "Root/ChessAssembly/FrameFront/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420300",
           "resources": {},
           "transform": {
             "position": [
@@ -298,7 +287,6 @@
           "name": "FrameBack",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/FrameBack",
-          "protocolEntityId": "entity_123253187594420308",
           "resources": {},
           "transform": {
             "position": [
@@ -328,7 +316,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/FrameBack",
           "path": "Root/ChessAssembly/FrameBack/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420309",
           "resources": {},
           "transform": {
             "position": [
@@ -358,7 +345,6 @@
           "name": "Rank_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Rank_0",
-          "protocolEntityId": "entity_123253187594420317",
           "resources": {},
           "transform": {
             "position": [
@@ -388,7 +374,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Rank_0",
           "path": "Root/ChessAssembly/Rank_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420318",
           "resources": {},
           "transform": {
             "position": [
@@ -418,7 +403,6 @@
           "name": "Rank_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Rank_1",
-          "protocolEntityId": "entity_123253187594420326",
           "resources": {},
           "transform": {
             "position": [
@@ -448,7 +432,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Rank_1",
           "path": "Root/ChessAssembly/Rank_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420327",
           "resources": {},
           "transform": {
             "position": [
@@ -478,7 +461,6 @@
           "name": "Rank_2",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Rank_2",
-          "protocolEntityId": "entity_123253187594420335",
           "resources": {},
           "transform": {
             "position": [
@@ -508,7 +490,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Rank_2",
           "path": "Root/ChessAssembly/Rank_2/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420336",
           "resources": {},
           "transform": {
             "position": [
@@ -538,7 +519,6 @@
           "name": "Rank_3",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Rank_3",
-          "protocolEntityId": "entity_123253187594420344",
           "resources": {},
           "transform": {
             "position": [
@@ -568,7 +548,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Rank_3",
           "path": "Root/ChessAssembly/Rank_3/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420345",
           "resources": {},
           "transform": {
             "position": [
@@ -598,7 +577,6 @@
           "name": "Rank_4",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Rank_4",
-          "protocolEntityId": "entity_123253187594420353",
           "resources": {},
           "transform": {
             "position": [
@@ -628,7 +606,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Rank_4",
           "path": "Root/ChessAssembly/Rank_4/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420354",
           "resources": {},
           "transform": {
             "position": [
@@ -658,7 +635,6 @@
           "name": "Rank_5",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Rank_5",
-          "protocolEntityId": "entity_123253187594420362",
           "resources": {},
           "transform": {
             "position": [
@@ -688,7 +664,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Rank_5",
           "path": "Root/ChessAssembly/Rank_5/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420363",
           "resources": {},
           "transform": {
             "position": [
@@ -718,7 +693,6 @@
           "name": "Rank_6",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Rank_6",
-          "protocolEntityId": "entity_123253187594420371",
           "resources": {},
           "transform": {
             "position": [
@@ -748,7 +722,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Rank_6",
           "path": "Root/ChessAssembly/Rank_6/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420372",
           "resources": {},
           "transform": {
             "position": [
@@ -778,7 +751,6 @@
           "name": "Rank_7",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Rank_7",
-          "protocolEntityId": "entity_123253187594420380",
           "resources": {},
           "transform": {
             "position": [
@@ -808,7 +780,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Rank_7",
           "path": "Root/ChessAssembly/Rank_7/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420381",
           "resources": {},
           "transform": {
             "position": [
@@ -838,7 +809,6 @@
           "name": "Rank_8",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Rank_8",
-          "protocolEntityId": "entity_123253187594420389",
           "resources": {},
           "transform": {
             "position": [
@@ -868,7 +838,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Rank_8",
           "path": "Root/ChessAssembly/Rank_8/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420390",
           "resources": {},
           "transform": {
             "position": [
@@ -898,7 +867,6 @@
           "name": "Rank_9",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Rank_9",
-          "protocolEntityId": "entity_123253187594420398",
           "resources": {},
           "transform": {
             "position": [
@@ -928,7 +896,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Rank_9",
           "path": "Root/ChessAssembly/Rank_9/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420399",
           "resources": {},
           "transform": {
             "position": [
@@ -958,7 +925,6 @@
           "name": "File_0_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_0_0",
-          "protocolEntityId": "entity_123253187594420430",
           "resources": {},
           "transform": {
             "position": [
@@ -988,7 +954,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_0_0",
           "path": "Root/ChessAssembly/File_0_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420431",
           "resources": {},
           "transform": {
             "position": [
@@ -1018,7 +983,6 @@
           "name": "File_0_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_0_1",
-          "protocolEntityId": "entity_123253187594420439",
           "resources": {},
           "transform": {
             "position": [
@@ -1048,7 +1012,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_0_1",
           "path": "Root/ChessAssembly/File_0_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420440",
           "resources": {},
           "transform": {
             "position": [
@@ -1078,7 +1041,6 @@
           "name": "File_1_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_1_0",
-          "protocolEntityId": "entity_123253187594420448",
           "resources": {},
           "transform": {
             "position": [
@@ -1108,7 +1070,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_1_0",
           "path": "Root/ChessAssembly/File_1_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420449",
           "resources": {},
           "transform": {
             "position": [
@@ -1138,7 +1099,6 @@
           "name": "File_1_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_1_1",
-          "protocolEntityId": "entity_123253187594420457",
           "resources": {},
           "transform": {
             "position": [
@@ -1168,7 +1128,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_1_1",
           "path": "Root/ChessAssembly/File_1_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420458",
           "resources": {},
           "transform": {
             "position": [
@@ -1198,7 +1157,6 @@
           "name": "File_2_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_2_0",
-          "protocolEntityId": "entity_123253187594420466",
           "resources": {},
           "transform": {
             "position": [
@@ -1228,7 +1186,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_2_0",
           "path": "Root/ChessAssembly/File_2_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420467",
           "resources": {},
           "transform": {
             "position": [
@@ -1258,7 +1215,6 @@
           "name": "File_2_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_2_1",
-          "protocolEntityId": "entity_123253187594420475",
           "resources": {},
           "transform": {
             "position": [
@@ -1288,7 +1244,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_2_1",
           "path": "Root/ChessAssembly/File_2_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420476",
           "resources": {},
           "transform": {
             "position": [
@@ -1318,7 +1273,6 @@
           "name": "File_3_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_3_0",
-          "protocolEntityId": "entity_123253187594420484",
           "resources": {},
           "transform": {
             "position": [
@@ -1348,7 +1302,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_3_0",
           "path": "Root/ChessAssembly/File_3_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420485",
           "resources": {},
           "transform": {
             "position": [
@@ -1378,7 +1331,6 @@
           "name": "File_3_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_3_1",
-          "protocolEntityId": "entity_123253187594420493",
           "resources": {},
           "transform": {
             "position": [
@@ -1408,7 +1360,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_3_1",
           "path": "Root/ChessAssembly/File_3_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420494",
           "resources": {},
           "transform": {
             "position": [
@@ -1438,7 +1389,6 @@
           "name": "File_4_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_4_0",
-          "protocolEntityId": "entity_123253187594420502",
           "resources": {},
           "transform": {
             "position": [
@@ -1468,7 +1418,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_4_0",
           "path": "Root/ChessAssembly/File_4_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420503",
           "resources": {},
           "transform": {
             "position": [
@@ -1498,7 +1447,6 @@
           "name": "File_4_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_4_1",
-          "protocolEntityId": "entity_123253187594420511",
           "resources": {},
           "transform": {
             "position": [
@@ -1528,7 +1476,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_4_1",
           "path": "Root/ChessAssembly/File_4_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420512",
           "resources": {},
           "transform": {
             "position": [
@@ -1558,7 +1505,6 @@
           "name": "File_5_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_5_0",
-          "protocolEntityId": "entity_123253187594420520",
           "resources": {},
           "transform": {
             "position": [
@@ -1588,7 +1534,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_5_0",
           "path": "Root/ChessAssembly/File_5_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420521",
           "resources": {},
           "transform": {
             "position": [
@@ -1618,7 +1563,6 @@
           "name": "File_5_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_5_1",
-          "protocolEntityId": "entity_123253187594420529",
           "resources": {},
           "transform": {
             "position": [
@@ -1648,7 +1592,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_5_1",
           "path": "Root/ChessAssembly/File_5_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420530",
           "resources": {},
           "transform": {
             "position": [
@@ -1678,7 +1621,6 @@
           "name": "File_6_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_6_0",
-          "protocolEntityId": "entity_123253187594420538",
           "resources": {},
           "transform": {
             "position": [
@@ -1708,7 +1650,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_6_0",
           "path": "Root/ChessAssembly/File_6_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420539",
           "resources": {},
           "transform": {
             "position": [
@@ -1738,7 +1679,6 @@
           "name": "File_6_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_6_1",
-          "protocolEntityId": "entity_123253187594420547",
           "resources": {},
           "transform": {
             "position": [
@@ -1768,7 +1708,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_6_1",
           "path": "Root/ChessAssembly/File_6_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420548",
           "resources": {},
           "transform": {
             "position": [
@@ -1798,7 +1737,6 @@
           "name": "File_7_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_7_0",
-          "protocolEntityId": "entity_123253187594420556",
           "resources": {},
           "transform": {
             "position": [
@@ -1828,7 +1766,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_7_0",
           "path": "Root/ChessAssembly/File_7_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420557",
           "resources": {},
           "transform": {
             "position": [
@@ -1858,7 +1795,6 @@
           "name": "File_7_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_7_1",
-          "protocolEntityId": "entity_123253187594420565",
           "resources": {},
           "transform": {
             "position": [
@@ -1888,7 +1824,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_7_1",
           "path": "Root/ChessAssembly/File_7_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420566",
           "resources": {},
           "transform": {
             "position": [
@@ -1918,7 +1853,6 @@
           "name": "File_8_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_8_0",
-          "protocolEntityId": "entity_123253187594420574",
           "resources": {},
           "transform": {
             "position": [
@@ -1948,7 +1882,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_8_0",
           "path": "Root/ChessAssembly/File_8_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420575",
           "resources": {},
           "transform": {
             "position": [
@@ -1978,7 +1911,6 @@
           "name": "File_8_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/File_8_1",
-          "protocolEntityId": "entity_123253187594420583",
           "resources": {},
           "transform": {
             "position": [
@@ -2008,7 +1940,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/File_8_1",
           "path": "Root/ChessAssembly/File_8_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420584",
           "resources": {},
           "transform": {
             "position": [
@@ -2038,7 +1969,6 @@
           "name": "RiverSide_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/RiverSide_0",
-          "protocolEntityId": "entity_123253187594420592",
           "resources": {},
           "transform": {
             "position": [
@@ -2068,7 +1998,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/RiverSide_0",
           "path": "Root/ChessAssembly/RiverSide_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420593",
           "resources": {},
           "transform": {
             "position": [
@@ -2098,7 +2027,6 @@
           "name": "RiverSide_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/RiverSide_1",
-          "protocolEntityId": "entity_123253187594420601",
           "resources": {},
           "transform": {
             "position": [
@@ -2128,7 +2056,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/RiverSide_1",
           "path": "Root/ChessAssembly/RiverSide_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420602",
           "resources": {},
           "transform": {
             "position": [
@@ -2158,7 +2085,6 @@
           "name": "Palace_0_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Palace_0_0",
-          "protocolEntityId": "entity_123253187594420610",
           "resources": {},
           "transform": {
             "position": [
@@ -2169,7 +2095,7 @@
             "rotation": [
               0,
               0,
-              0.3826834559440613,
+              0.38268348574638367,
               0.9238795042037964
             ],
             "scale": [
@@ -2188,7 +2114,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Palace_0_0",
           "path": "Root/ChessAssembly/Palace_0_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420611",
           "resources": {},
           "transform": {
             "position": [
@@ -2218,7 +2143,6 @@
           "name": "Palace_0_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Palace_0_1",
-          "protocolEntityId": "entity_123253187594420619",
           "resources": {},
           "transform": {
             "position": [
@@ -2229,7 +2153,7 @@
             "rotation": [
               0,
               0,
-              -0.3826834559440613,
+              -0.38268348574638367,
               0.9238795042037964
             ],
             "scale": [
@@ -2248,7 +2172,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Palace_0_1",
           "path": "Root/ChessAssembly/Palace_0_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420620",
           "resources": {},
           "transform": {
             "position": [
@@ -2278,7 +2201,6 @@
           "name": "Palace_1_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Palace_1_0",
-          "protocolEntityId": "entity_123253187594420628",
           "resources": {},
           "transform": {
             "position": [
@@ -2289,7 +2211,7 @@
             "rotation": [
               0,
               0,
-              0.3826834559440613,
+              0.38268348574638367,
               0.9238795042037964
             ],
             "scale": [
@@ -2308,7 +2230,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Palace_1_0",
           "path": "Root/ChessAssembly/Palace_1_0/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420629",
           "resources": {},
           "transform": {
             "position": [
@@ -2338,7 +2259,6 @@
           "name": "Palace_1_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Palace_1_1",
-          "protocolEntityId": "entity_123253187594420637",
           "resources": {},
           "transform": {
             "position": [
@@ -2349,7 +2269,7 @@
             "rotation": [
               0,
               0,
-              -0.3826834559440613,
+              -0.38268348574638367,
               0.9238795042037964
             ],
             "scale": [
@@ -2368,7 +2288,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Palace_1_1",
           "path": "Root/ChessAssembly/Palace_1_1/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420638",
           "resources": {},
           "transform": {
             "position": [
@@ -2398,7 +2317,6 @@
           "name": "Red_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_0",
-          "protocolEntityId": "entity_123253187594420680",
           "resources": {},
           "transform": {
             "position": [
@@ -2428,7 +2346,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_0",
           "path": "Root/ChessAssembly/Red_0/Rim",
-          "protocolEntityId": "entity_123253187594420688",
           "resources": {},
           "transform": {
             "position": [
@@ -2458,7 +2375,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_0/Rim",
           "path": "Root/ChessAssembly/Red_0/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420689",
           "resources": {},
           "transform": {
             "position": [
@@ -2488,7 +2404,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_0",
           "path": "Root/ChessAssembly/Red_0/Face",
-          "protocolEntityId": "entity_123253187594420697",
           "resources": {},
           "transform": {
             "position": [
@@ -2518,7 +2433,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_0/Face",
           "path": "Root/ChessAssembly/Red_0/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420698",
           "resources": {},
           "transform": {
             "position": [
@@ -2548,7 +2462,6 @@
           "name": "Red_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_1",
-          "protocolEntityId": "entity_123253187594420699",
           "resources": {},
           "transform": {
             "position": [
@@ -2578,7 +2491,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_1",
           "path": "Root/ChessAssembly/Red_1/Rim",
-          "protocolEntityId": "entity_123253187594420707",
           "resources": {},
           "transform": {
             "position": [
@@ -2608,7 +2520,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_1/Rim",
           "path": "Root/ChessAssembly/Red_1/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420708",
           "resources": {},
           "transform": {
             "position": [
@@ -2638,7 +2549,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_1",
           "path": "Root/ChessAssembly/Red_1/Face",
-          "protocolEntityId": "entity_123253187594420716",
           "resources": {},
           "transform": {
             "position": [
@@ -2668,7 +2578,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_1/Face",
           "path": "Root/ChessAssembly/Red_1/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420717",
           "resources": {},
           "transform": {
             "position": [
@@ -2698,7 +2607,6 @@
           "name": "Red_2",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_2",
-          "protocolEntityId": "entity_123253187594420718",
           "resources": {},
           "transform": {
             "position": [
@@ -2728,7 +2636,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_2",
           "path": "Root/ChessAssembly/Red_2/Rim",
-          "protocolEntityId": "entity_123253187594420726",
           "resources": {},
           "transform": {
             "position": [
@@ -2758,7 +2665,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_2/Rim",
           "path": "Root/ChessAssembly/Red_2/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420727",
           "resources": {},
           "transform": {
             "position": [
@@ -2788,7 +2694,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_2",
           "path": "Root/ChessAssembly/Red_2/Face",
-          "protocolEntityId": "entity_123253187594420735",
           "resources": {},
           "transform": {
             "position": [
@@ -2818,7 +2723,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_2/Face",
           "path": "Root/ChessAssembly/Red_2/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420736",
           "resources": {},
           "transform": {
             "position": [
@@ -2848,7 +2752,6 @@
           "name": "Red_3",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_3",
-          "protocolEntityId": "entity_123253187594420737",
           "resources": {},
           "transform": {
             "position": [
@@ -2878,7 +2781,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_3",
           "path": "Root/ChessAssembly/Red_3/Rim",
-          "protocolEntityId": "entity_123253187594420745",
           "resources": {},
           "transform": {
             "position": [
@@ -2908,7 +2810,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_3/Rim",
           "path": "Root/ChessAssembly/Red_3/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420746",
           "resources": {},
           "transform": {
             "position": [
@@ -2938,7 +2839,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_3",
           "path": "Root/ChessAssembly/Red_3/Face",
-          "protocolEntityId": "entity_123253187594420754",
           "resources": {},
           "transform": {
             "position": [
@@ -2968,7 +2868,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_3/Face",
           "path": "Root/ChessAssembly/Red_3/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420755",
           "resources": {},
           "transform": {
             "position": [
@@ -2998,7 +2897,6 @@
           "name": "Red_4",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_4",
-          "protocolEntityId": "entity_123253187594420756",
           "resources": {},
           "transform": {
             "position": [
@@ -3028,7 +2926,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_4",
           "path": "Root/ChessAssembly/Red_4/Rim",
-          "protocolEntityId": "entity_123253187594420764",
           "resources": {},
           "transform": {
             "position": [
@@ -3058,7 +2955,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_4/Rim",
           "path": "Root/ChessAssembly/Red_4/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420765",
           "resources": {},
           "transform": {
             "position": [
@@ -3088,7 +2984,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_4",
           "path": "Root/ChessAssembly/Red_4/Face",
-          "protocolEntityId": "entity_123253187594420773",
           "resources": {},
           "transform": {
             "position": [
@@ -3118,7 +3013,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_4/Face",
           "path": "Root/ChessAssembly/Red_4/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420774",
           "resources": {},
           "transform": {
             "position": [
@@ -3148,7 +3042,6 @@
           "name": "Red_5",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_5",
-          "protocolEntityId": "entity_123253187594420775",
           "resources": {},
           "transform": {
             "position": [
@@ -3178,7 +3071,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_5",
           "path": "Root/ChessAssembly/Red_5/Rim",
-          "protocolEntityId": "entity_123253187594420783",
           "resources": {},
           "transform": {
             "position": [
@@ -3208,7 +3100,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_5/Rim",
           "path": "Root/ChessAssembly/Red_5/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420784",
           "resources": {},
           "transform": {
             "position": [
@@ -3238,7 +3129,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_5",
           "path": "Root/ChessAssembly/Red_5/Face",
-          "protocolEntityId": "entity_123253187594420792",
           "resources": {},
           "transform": {
             "position": [
@@ -3268,7 +3158,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_5/Face",
           "path": "Root/ChessAssembly/Red_5/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420793",
           "resources": {},
           "transform": {
             "position": [
@@ -3298,7 +3187,6 @@
           "name": "Red_6",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_6",
-          "protocolEntityId": "entity_123253187594420794",
           "resources": {},
           "transform": {
             "position": [
@@ -3328,7 +3216,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_6",
           "path": "Root/ChessAssembly/Red_6/Rim",
-          "protocolEntityId": "entity_123253187594420802",
           "resources": {},
           "transform": {
             "position": [
@@ -3358,7 +3245,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_6/Rim",
           "path": "Root/ChessAssembly/Red_6/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420803",
           "resources": {},
           "transform": {
             "position": [
@@ -3388,7 +3274,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_6",
           "path": "Root/ChessAssembly/Red_6/Face",
-          "protocolEntityId": "entity_123253187594420811",
           "resources": {},
           "transform": {
             "position": [
@@ -3418,7 +3303,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_6/Face",
           "path": "Root/ChessAssembly/Red_6/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420812",
           "resources": {},
           "transform": {
             "position": [
@@ -3448,7 +3332,6 @@
           "name": "Red_7",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_7",
-          "protocolEntityId": "entity_123253187594420813",
           "resources": {},
           "transform": {
             "position": [
@@ -3478,7 +3361,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_7",
           "path": "Root/ChessAssembly/Red_7/Rim",
-          "protocolEntityId": "entity_123253187594420821",
           "resources": {},
           "transform": {
             "position": [
@@ -3508,7 +3390,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_7/Rim",
           "path": "Root/ChessAssembly/Red_7/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420822",
           "resources": {},
           "transform": {
             "position": [
@@ -3538,7 +3419,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_7",
           "path": "Root/ChessAssembly/Red_7/Face",
-          "protocolEntityId": "entity_123253187594420830",
           "resources": {},
           "transform": {
             "position": [
@@ -3568,7 +3448,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_7/Face",
           "path": "Root/ChessAssembly/Red_7/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420831",
           "resources": {},
           "transform": {
             "position": [
@@ -3598,7 +3477,6 @@
           "name": "Red_8",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_8",
-          "protocolEntityId": "entity_123253187594420895",
           "resources": {},
           "transform": {
             "position": [
@@ -3628,7 +3506,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_8",
           "path": "Root/ChessAssembly/Red_8/Rim",
-          "protocolEntityId": "entity_123253187594420903",
           "resources": {},
           "transform": {
             "position": [
@@ -3658,7 +3535,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_8/Rim",
           "path": "Root/ChessAssembly/Red_8/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420904",
           "resources": {},
           "transform": {
             "position": [
@@ -3688,7 +3564,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_8",
           "path": "Root/ChessAssembly/Red_8/Face",
-          "protocolEntityId": "entity_123253187594420912",
           "resources": {},
           "transform": {
             "position": [
@@ -3718,7 +3593,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_8/Face",
           "path": "Root/ChessAssembly/Red_8/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420913",
           "resources": {},
           "transform": {
             "position": [
@@ -3748,7 +3622,6 @@
           "name": "Red_9",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_9",
-          "protocolEntityId": "entity_123253187594420914",
           "resources": {},
           "transform": {
             "position": [
@@ -3778,7 +3651,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_9",
           "path": "Root/ChessAssembly/Red_9/Rim",
-          "protocolEntityId": "entity_123253187594420922",
           "resources": {},
           "transform": {
             "position": [
@@ -3808,7 +3680,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_9/Rim",
           "path": "Root/ChessAssembly/Red_9/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420923",
           "resources": {},
           "transform": {
             "position": [
@@ -3838,7 +3709,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_9",
           "path": "Root/ChessAssembly/Red_9/Face",
-          "protocolEntityId": "entity_123253187594420931",
           "resources": {},
           "transform": {
             "position": [
@@ -3868,7 +3738,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_9/Face",
           "path": "Root/ChessAssembly/Red_9/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420932",
           "resources": {},
           "transform": {
             "position": [
@@ -3898,7 +3767,6 @@
           "name": "Red_10",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_10",
-          "protocolEntityId": "entity_123253187594420933",
           "resources": {},
           "transform": {
             "position": [
@@ -3928,7 +3796,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_10",
           "path": "Root/ChessAssembly/Red_10/Rim",
-          "protocolEntityId": "entity_123253187594420941",
           "resources": {},
           "transform": {
             "position": [
@@ -3958,7 +3825,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_10/Rim",
           "path": "Root/ChessAssembly/Red_10/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420942",
           "resources": {},
           "transform": {
             "position": [
@@ -3988,7 +3854,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_10",
           "path": "Root/ChessAssembly/Red_10/Face",
-          "protocolEntityId": "entity_123253187594420950",
           "resources": {},
           "transform": {
             "position": [
@@ -4018,7 +3883,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_10/Face",
           "path": "Root/ChessAssembly/Red_10/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420951",
           "resources": {},
           "transform": {
             "position": [
@@ -4048,7 +3912,6 @@
           "name": "Red_11",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_11",
-          "protocolEntityId": "entity_123253187594420952",
           "resources": {},
           "transform": {
             "position": [
@@ -4078,7 +3941,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_11",
           "path": "Root/ChessAssembly/Red_11/Rim",
-          "protocolEntityId": "entity_123253187594420960",
           "resources": {},
           "transform": {
             "position": [
@@ -4108,7 +3970,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_11/Rim",
           "path": "Root/ChessAssembly/Red_11/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420961",
           "resources": {},
           "transform": {
             "position": [
@@ -4138,7 +3999,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_11",
           "path": "Root/ChessAssembly/Red_11/Face",
-          "protocolEntityId": "entity_123253187594420969",
           "resources": {},
           "transform": {
             "position": [
@@ -4168,7 +4028,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_11/Face",
           "path": "Root/ChessAssembly/Red_11/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420970",
           "resources": {},
           "transform": {
             "position": [
@@ -4198,7 +4057,6 @@
           "name": "Red_12",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_12",
-          "protocolEntityId": "entity_123253187594420971",
           "resources": {},
           "transform": {
             "position": [
@@ -4228,7 +4086,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_12",
           "path": "Root/ChessAssembly/Red_12/Rim",
-          "protocolEntityId": "entity_123253187594420979",
           "resources": {},
           "transform": {
             "position": [
@@ -4258,7 +4115,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_12/Rim",
           "path": "Root/ChessAssembly/Red_12/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420980",
           "resources": {},
           "transform": {
             "position": [
@@ -4288,7 +4144,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_12",
           "path": "Root/ChessAssembly/Red_12/Face",
-          "protocolEntityId": "entity_123253187594420988",
           "resources": {},
           "transform": {
             "position": [
@@ -4318,7 +4173,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_12/Face",
           "path": "Root/ChessAssembly/Red_12/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420989",
           "resources": {},
           "transform": {
             "position": [
@@ -4348,7 +4202,6 @@
           "name": "Red_13",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_13",
-          "protocolEntityId": "entity_123253187594420990",
           "resources": {},
           "transform": {
             "position": [
@@ -4378,7 +4231,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_13",
           "path": "Root/ChessAssembly/Red_13/Rim",
-          "protocolEntityId": "entity_123253187594420998",
           "resources": {},
           "transform": {
             "position": [
@@ -4408,7 +4260,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_13/Rim",
           "path": "Root/ChessAssembly/Red_13/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594420999",
           "resources": {},
           "transform": {
             "position": [
@@ -4438,7 +4289,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_13",
           "path": "Root/ChessAssembly/Red_13/Face",
-          "protocolEntityId": "entity_123253187594421007",
           "resources": {},
           "transform": {
             "position": [
@@ -4468,7 +4318,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_13/Face",
           "path": "Root/ChessAssembly/Red_13/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421008",
           "resources": {},
           "transform": {
             "position": [
@@ -4498,7 +4347,6 @@
           "name": "Red_14",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_14",
-          "protocolEntityId": "entity_123253187594421009",
           "resources": {},
           "transform": {
             "position": [
@@ -4528,7 +4376,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_14",
           "path": "Root/ChessAssembly/Red_14/Rim",
-          "protocolEntityId": "entity_123253187594421017",
           "resources": {},
           "transform": {
             "position": [
@@ -4558,7 +4405,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_14/Rim",
           "path": "Root/ChessAssembly/Red_14/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421018",
           "resources": {},
           "transform": {
             "position": [
@@ -4588,7 +4434,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_14",
           "path": "Root/ChessAssembly/Red_14/Face",
-          "protocolEntityId": "entity_123253187594421026",
           "resources": {},
           "transform": {
             "position": [
@@ -4618,7 +4463,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_14/Face",
           "path": "Root/ChessAssembly/Red_14/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421027",
           "resources": {},
           "transform": {
             "position": [
@@ -4648,7 +4492,6 @@
           "name": "Red_15",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Red_15",
-          "protocolEntityId": "entity_123253187594421028",
           "resources": {},
           "transform": {
             "position": [
@@ -4678,7 +4521,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Red_15",
           "path": "Root/ChessAssembly/Red_15/Rim",
-          "protocolEntityId": "entity_123253187594421036",
           "resources": {},
           "transform": {
             "position": [
@@ -4708,7 +4550,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_15/Rim",
           "path": "Root/ChessAssembly/Red_15/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421037",
           "resources": {},
           "transform": {
             "position": [
@@ -4738,7 +4579,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Red_15",
           "path": "Root/ChessAssembly/Red_15/Face",
-          "protocolEntityId": "entity_123253187594421045",
           "resources": {},
           "transform": {
             "position": [
@@ -4768,7 +4608,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Red_15/Face",
           "path": "Root/ChessAssembly/Red_15/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421046",
           "resources": {},
           "transform": {
             "position": [
@@ -4798,7 +4637,6 @@
           "name": "Black_0",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_0",
-          "protocolEntityId": "entity_123253187594421120",
           "resources": {},
           "transform": {
             "position": [
@@ -4828,7 +4666,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_0",
           "path": "Root/ChessAssembly/Black_0/Rim",
-          "protocolEntityId": "entity_123253187594421128",
           "resources": {},
           "transform": {
             "position": [
@@ -4858,7 +4695,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_0/Rim",
           "path": "Root/ChessAssembly/Black_0/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421129",
           "resources": {},
           "transform": {
             "position": [
@@ -4888,7 +4724,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_0",
           "path": "Root/ChessAssembly/Black_0/Face",
-          "protocolEntityId": "entity_123253187594421137",
           "resources": {},
           "transform": {
             "position": [
@@ -4918,7 +4753,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_0/Face",
           "path": "Root/ChessAssembly/Black_0/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421138",
           "resources": {},
           "transform": {
             "position": [
@@ -4948,7 +4782,6 @@
           "name": "Black_1",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_1",
-          "protocolEntityId": "entity_123253187594421139",
           "resources": {},
           "transform": {
             "position": [
@@ -4978,7 +4811,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_1",
           "path": "Root/ChessAssembly/Black_1/Rim",
-          "protocolEntityId": "entity_123253187594421147",
           "resources": {},
           "transform": {
             "position": [
@@ -5008,7 +4840,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_1/Rim",
           "path": "Root/ChessAssembly/Black_1/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421148",
           "resources": {},
           "transform": {
             "position": [
@@ -5038,7 +4869,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_1",
           "path": "Root/ChessAssembly/Black_1/Face",
-          "protocolEntityId": "entity_123253187594421156",
           "resources": {},
           "transform": {
             "position": [
@@ -5068,7 +4898,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_1/Face",
           "path": "Root/ChessAssembly/Black_1/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421157",
           "resources": {},
           "transform": {
             "position": [
@@ -5098,7 +4927,6 @@
           "name": "Black_2",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_2",
-          "protocolEntityId": "entity_123253187594421158",
           "resources": {},
           "transform": {
             "position": [
@@ -5128,7 +4956,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_2",
           "path": "Root/ChessAssembly/Black_2/Rim",
-          "protocolEntityId": "entity_123253187594421166",
           "resources": {},
           "transform": {
             "position": [
@@ -5158,7 +4985,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_2/Rim",
           "path": "Root/ChessAssembly/Black_2/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421167",
           "resources": {},
           "transform": {
             "position": [
@@ -5188,7 +5014,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_2",
           "path": "Root/ChessAssembly/Black_2/Face",
-          "protocolEntityId": "entity_123253187594421175",
           "resources": {},
           "transform": {
             "position": [
@@ -5218,7 +5043,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_2/Face",
           "path": "Root/ChessAssembly/Black_2/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421176",
           "resources": {},
           "transform": {
             "position": [
@@ -5248,7 +5072,6 @@
           "name": "Black_3",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_3",
-          "protocolEntityId": "entity_123253187594421177",
           "resources": {},
           "transform": {
             "position": [
@@ -5278,7 +5101,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_3",
           "path": "Root/ChessAssembly/Black_3/Rim",
-          "protocolEntityId": "entity_123253187594421185",
           "resources": {},
           "transform": {
             "position": [
@@ -5308,7 +5130,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_3/Rim",
           "path": "Root/ChessAssembly/Black_3/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421186",
           "resources": {},
           "transform": {
             "position": [
@@ -5338,7 +5159,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_3",
           "path": "Root/ChessAssembly/Black_3/Face",
-          "protocolEntityId": "entity_123253187594421194",
           "resources": {},
           "transform": {
             "position": [
@@ -5368,7 +5188,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_3/Face",
           "path": "Root/ChessAssembly/Black_3/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421195",
           "resources": {},
           "transform": {
             "position": [
@@ -5398,7 +5217,6 @@
           "name": "Black_4",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_4",
-          "protocolEntityId": "entity_123253187594421196",
           "resources": {},
           "transform": {
             "position": [
@@ -5428,7 +5246,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_4",
           "path": "Root/ChessAssembly/Black_4/Rim",
-          "protocolEntityId": "entity_123253187594421204",
           "resources": {},
           "transform": {
             "position": [
@@ -5458,7 +5275,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_4/Rim",
           "path": "Root/ChessAssembly/Black_4/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421205",
           "resources": {},
           "transform": {
             "position": [
@@ -5488,7 +5304,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_4",
           "path": "Root/ChessAssembly/Black_4/Face",
-          "protocolEntityId": "entity_123253187594421213",
           "resources": {},
           "transform": {
             "position": [
@@ -5518,7 +5333,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_4/Face",
           "path": "Root/ChessAssembly/Black_4/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421214",
           "resources": {},
           "transform": {
             "position": [
@@ -5548,7 +5362,6 @@
           "name": "Black_5",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_5",
-          "protocolEntityId": "entity_123253187594421215",
           "resources": {},
           "transform": {
             "position": [
@@ -5578,7 +5391,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_5",
           "path": "Root/ChessAssembly/Black_5/Rim",
-          "protocolEntityId": "entity_123253187594421223",
           "resources": {},
           "transform": {
             "position": [
@@ -5608,7 +5420,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_5/Rim",
           "path": "Root/ChessAssembly/Black_5/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421224",
           "resources": {},
           "transform": {
             "position": [
@@ -5638,7 +5449,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_5",
           "path": "Root/ChessAssembly/Black_5/Face",
-          "protocolEntityId": "entity_123253187594421232",
           "resources": {},
           "transform": {
             "position": [
@@ -5668,7 +5478,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_5/Face",
           "path": "Root/ChessAssembly/Black_5/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421233",
           "resources": {},
           "transform": {
             "position": [
@@ -5698,7 +5507,6 @@
           "name": "Black_6",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_6",
-          "protocolEntityId": "entity_123253187594421234",
           "resources": {},
           "transform": {
             "position": [
@@ -5728,7 +5536,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_6",
           "path": "Root/ChessAssembly/Black_6/Rim",
-          "protocolEntityId": "entity_123253187594421242",
           "resources": {},
           "transform": {
             "position": [
@@ -5758,7 +5565,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_6/Rim",
           "path": "Root/ChessAssembly/Black_6/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421243",
           "resources": {},
           "transform": {
             "position": [
@@ -5788,7 +5594,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_6",
           "path": "Root/ChessAssembly/Black_6/Face",
-          "protocolEntityId": "entity_123253187594421251",
           "resources": {},
           "transform": {
             "position": [
@@ -5818,7 +5623,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_6/Face",
           "path": "Root/ChessAssembly/Black_6/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421252",
           "resources": {},
           "transform": {
             "position": [
@@ -5848,7 +5652,6 @@
           "name": "Black_7",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_7",
-          "protocolEntityId": "entity_123253187594421253",
           "resources": {},
           "transform": {
             "position": [
@@ -5878,7 +5681,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_7",
           "path": "Root/ChessAssembly/Black_7/Rim",
-          "protocolEntityId": "entity_123253187594421261",
           "resources": {},
           "transform": {
             "position": [
@@ -5908,7 +5710,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_7/Rim",
           "path": "Root/ChessAssembly/Black_7/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421262",
           "resources": {},
           "transform": {
             "position": [
@@ -5938,7 +5739,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_7",
           "path": "Root/ChessAssembly/Black_7/Face",
-          "protocolEntityId": "entity_123253187594421270",
           "resources": {},
           "transform": {
             "position": [
@@ -5968,7 +5768,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_7/Face",
           "path": "Root/ChessAssembly/Black_7/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421271",
           "resources": {},
           "transform": {
             "position": [
@@ -5998,7 +5797,6 @@
           "name": "Black_8",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_8",
-          "protocolEntityId": "entity_123253187594421361",
           "resources": {},
           "transform": {
             "position": [
@@ -6028,7 +5826,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_8",
           "path": "Root/ChessAssembly/Black_8/Rim",
-          "protocolEntityId": "entity_123253187594421369",
           "resources": {},
           "transform": {
             "position": [
@@ -6058,7 +5855,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_8/Rim",
           "path": "Root/ChessAssembly/Black_8/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421370",
           "resources": {},
           "transform": {
             "position": [
@@ -6088,7 +5884,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_8",
           "path": "Root/ChessAssembly/Black_8/Face",
-          "protocolEntityId": "entity_123253187594421378",
           "resources": {},
           "transform": {
             "position": [
@@ -6118,7 +5913,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_8/Face",
           "path": "Root/ChessAssembly/Black_8/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421379",
           "resources": {},
           "transform": {
             "position": [
@@ -6148,7 +5942,6 @@
           "name": "Black_9",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_9",
-          "protocolEntityId": "entity_123253187594421380",
           "resources": {},
           "transform": {
             "position": [
@@ -6178,7 +5971,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_9",
           "path": "Root/ChessAssembly/Black_9/Rim",
-          "protocolEntityId": "entity_123253187594421388",
           "resources": {},
           "transform": {
             "position": [
@@ -6208,7 +6000,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_9/Rim",
           "path": "Root/ChessAssembly/Black_9/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421389",
           "resources": {},
           "transform": {
             "position": [
@@ -6238,7 +6029,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_9",
           "path": "Root/ChessAssembly/Black_9/Face",
-          "protocolEntityId": "entity_123253187594421397",
           "resources": {},
           "transform": {
             "position": [
@@ -6268,7 +6058,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_9/Face",
           "path": "Root/ChessAssembly/Black_9/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421398",
           "resources": {},
           "transform": {
             "position": [
@@ -6298,7 +6087,6 @@
           "name": "Black_10",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_10",
-          "protocolEntityId": "entity_123253187594421399",
           "resources": {},
           "transform": {
             "position": [
@@ -6328,7 +6116,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_10",
           "path": "Root/ChessAssembly/Black_10/Rim",
-          "protocolEntityId": "entity_123253187594421407",
           "resources": {},
           "transform": {
             "position": [
@@ -6358,7 +6145,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_10/Rim",
           "path": "Root/ChessAssembly/Black_10/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421408",
           "resources": {},
           "transform": {
             "position": [
@@ -6388,7 +6174,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_10",
           "path": "Root/ChessAssembly/Black_10/Face",
-          "protocolEntityId": "entity_123253187594421416",
           "resources": {},
           "transform": {
             "position": [
@@ -6418,7 +6203,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_10/Face",
           "path": "Root/ChessAssembly/Black_10/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421417",
           "resources": {},
           "transform": {
             "position": [
@@ -6448,7 +6232,6 @@
           "name": "Black_11",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_11",
-          "protocolEntityId": "entity_123253187594421418",
           "resources": {},
           "transform": {
             "position": [
@@ -6478,7 +6261,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_11",
           "path": "Root/ChessAssembly/Black_11/Rim",
-          "protocolEntityId": "entity_123253187594421426",
           "resources": {},
           "transform": {
             "position": [
@@ -6508,7 +6290,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_11/Rim",
           "path": "Root/ChessAssembly/Black_11/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421427",
           "resources": {},
           "transform": {
             "position": [
@@ -6538,7 +6319,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_11",
           "path": "Root/ChessAssembly/Black_11/Face",
-          "protocolEntityId": "entity_123253187594421435",
           "resources": {},
           "transform": {
             "position": [
@@ -6568,7 +6348,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_11/Face",
           "path": "Root/ChessAssembly/Black_11/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421436",
           "resources": {},
           "transform": {
             "position": [
@@ -6598,7 +6377,6 @@
           "name": "Black_12",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_12",
-          "protocolEntityId": "entity_123253187594421437",
           "resources": {},
           "transform": {
             "position": [
@@ -6628,7 +6406,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_12",
           "path": "Root/ChessAssembly/Black_12/Rim",
-          "protocolEntityId": "entity_123253187594421445",
           "resources": {},
           "transform": {
             "position": [
@@ -6658,7 +6435,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_12/Rim",
           "path": "Root/ChessAssembly/Black_12/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421446",
           "resources": {},
           "transform": {
             "position": [
@@ -6688,7 +6464,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_12",
           "path": "Root/ChessAssembly/Black_12/Face",
-          "protocolEntityId": "entity_123253187594421454",
           "resources": {},
           "transform": {
             "position": [
@@ -6718,7 +6493,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_12/Face",
           "path": "Root/ChessAssembly/Black_12/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421455",
           "resources": {},
           "transform": {
             "position": [
@@ -6748,7 +6522,6 @@
           "name": "Black_13",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_13",
-          "protocolEntityId": "entity_123253187594421456",
           "resources": {},
           "transform": {
             "position": [
@@ -6778,7 +6551,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_13",
           "path": "Root/ChessAssembly/Black_13/Rim",
-          "protocolEntityId": "entity_123253187594421464",
           "resources": {},
           "transform": {
             "position": [
@@ -6808,7 +6580,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_13/Rim",
           "path": "Root/ChessAssembly/Black_13/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421465",
           "resources": {},
           "transform": {
             "position": [
@@ -6838,7 +6609,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_13",
           "path": "Root/ChessAssembly/Black_13/Face",
-          "protocolEntityId": "entity_123253187594421473",
           "resources": {},
           "transform": {
             "position": [
@@ -6868,7 +6638,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_13/Face",
           "path": "Root/ChessAssembly/Black_13/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421474",
           "resources": {},
           "transform": {
             "position": [
@@ -6898,7 +6667,6 @@
           "name": "Black_14",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_14",
-          "protocolEntityId": "entity_123253187594421475",
           "resources": {},
           "transform": {
             "position": [
@@ -6928,7 +6696,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_14",
           "path": "Root/ChessAssembly/Black_14/Rim",
-          "protocolEntityId": "entity_123253187594421483",
           "resources": {},
           "transform": {
             "position": [
@@ -6958,7 +6725,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_14/Rim",
           "path": "Root/ChessAssembly/Black_14/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421484",
           "resources": {},
           "transform": {
             "position": [
@@ -6988,7 +6754,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_14",
           "path": "Root/ChessAssembly/Black_14/Face",
-          "protocolEntityId": "entity_123253187594421492",
           "resources": {},
           "transform": {
             "position": [
@@ -7018,7 +6783,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_14/Face",
           "path": "Root/ChessAssembly/Black_14/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421493",
           "resources": {},
           "transform": {
             "position": [
@@ -7048,7 +6812,6 @@
           "name": "Black_15",
           "parentPath": "Root/ChessAssembly",
           "path": "Root/ChessAssembly/Black_15",
-          "protocolEntityId": "entity_123253187594421494",
           "resources": {},
           "transform": {
             "position": [
@@ -7078,7 +6841,6 @@
           "name": "Rim",
           "parentPath": "Root/ChessAssembly/Black_15",
           "path": "Root/ChessAssembly/Black_15/Rim",
-          "protocolEntityId": "entity_123253187594421502",
           "resources": {},
           "transform": {
             "position": [
@@ -7108,7 +6870,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_15/Rim",
           "path": "Root/ChessAssembly/Black_15/Rim/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421503",
           "resources": {},
           "transform": {
             "position": [
@@ -7138,7 +6899,6 @@
           "name": "Face",
           "parentPath": "Root/ChessAssembly/Black_15",
           "path": "Root/ChessAssembly/Black_15/Face",
-          "protocolEntityId": "entity_123253187594421511",
           "resources": {},
           "transform": {
             "position": [
@@ -7168,7 +6928,6 @@
           "name": "DefaultMaterial",
           "parentPath": "Root/ChessAssembly/Black_15/Face",
           "path": "Root/ChessAssembly/Black_15/Face/DefaultMaterial",
-          "protocolEntityId": "entity_123253187594421512",
           "resources": {},
           "transform": {
             "position": [
@@ -7206,7 +6965,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Board/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Board/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420273",
                   "transform": {
                     "position": [
                       0,
@@ -7231,7 +6989,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Board",
               "name": "Board",
               "path": "Root/ChessAssembly/Board",
-              "protocolEntityId": "entity_123253187594420272",
               "transform": {
                 "position": [
                   0,
@@ -7261,7 +7018,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/FrameLeft/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/FrameLeft/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420282",
                   "transform": {
                     "position": [
                       0,
@@ -7286,7 +7042,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/FrameLeft",
               "name": "FrameLeft",
               "path": "Root/ChessAssembly/FrameLeft",
-              "protocolEntityId": "entity_123253187594420281",
               "transform": {
                 "position": [
                   -0.5724999904632568,
@@ -7316,7 +7071,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/FrameRight/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/FrameRight/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420291",
                   "transform": {
                     "position": [
                       0,
@@ -7341,7 +7095,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/FrameRight",
               "name": "FrameRight",
               "path": "Root/ChessAssembly/FrameRight",
-              "protocolEntityId": "entity_123253187594420290",
               "transform": {
                 "position": [
                   0.5724999904632568,
@@ -7371,7 +7124,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/FrameFront/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/FrameFront/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420300",
                   "transform": {
                     "position": [
                       0,
@@ -7396,7 +7148,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/FrameFront",
               "name": "FrameFront",
               "path": "Root/ChessAssembly/FrameFront",
-              "protocolEntityId": "entity_123253187594420299",
               "transform": {
                 "position": [
                   0,
@@ -7426,7 +7177,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/FrameBack/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/FrameBack/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420309",
                   "transform": {
                     "position": [
                       0,
@@ -7451,7 +7201,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/FrameBack",
               "name": "FrameBack",
               "path": "Root/ChessAssembly/FrameBack",
-              "protocolEntityId": "entity_123253187594420308",
               "transform": {
                 "position": [
                   0,
@@ -7481,7 +7230,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Rank_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420318",
                   "transform": {
                     "position": [
                       0,
@@ -7506,7 +7254,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_0",
               "name": "Rank_0",
               "path": "Root/ChessAssembly/Rank_0",
-              "protocolEntityId": "entity_123253187594420317",
               "transform": {
                 "position": [
                   0,
@@ -7536,7 +7283,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Rank_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420327",
                   "transform": {
                     "position": [
                       0,
@@ -7561,7 +7307,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_1",
               "name": "Rank_1",
               "path": "Root/ChessAssembly/Rank_1",
-              "protocolEntityId": "entity_123253187594420326",
               "transform": {
                 "position": [
                   0,
@@ -7591,7 +7336,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_2/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Rank_2/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420336",
                   "transform": {
                     "position": [
                       0,
@@ -7616,7 +7360,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_2",
               "name": "Rank_2",
               "path": "Root/ChessAssembly/Rank_2",
-              "protocolEntityId": "entity_123253187594420335",
               "transform": {
                 "position": [
                   0,
@@ -7646,7 +7389,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_3/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Rank_3/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420345",
                   "transform": {
                     "position": [
                       0,
@@ -7671,7 +7413,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_3",
               "name": "Rank_3",
               "path": "Root/ChessAssembly/Rank_3",
-              "protocolEntityId": "entity_123253187594420344",
               "transform": {
                 "position": [
                   0,
@@ -7701,7 +7442,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_4/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Rank_4/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420354",
                   "transform": {
                     "position": [
                       0,
@@ -7726,7 +7466,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_4",
               "name": "Rank_4",
               "path": "Root/ChessAssembly/Rank_4",
-              "protocolEntityId": "entity_123253187594420353",
               "transform": {
                 "position": [
                   0,
@@ -7756,7 +7495,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_5/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Rank_5/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420363",
                   "transform": {
                     "position": [
                       0,
@@ -7781,7 +7519,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_5",
               "name": "Rank_5",
               "path": "Root/ChessAssembly/Rank_5",
-              "protocolEntityId": "entity_123253187594420362",
               "transform": {
                 "position": [
                   0,
@@ -7811,7 +7548,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_6/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Rank_6/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420372",
                   "transform": {
                     "position": [
                       0,
@@ -7836,7 +7572,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_6",
               "name": "Rank_6",
               "path": "Root/ChessAssembly/Rank_6",
-              "protocolEntityId": "entity_123253187594420371",
               "transform": {
                 "position": [
                   0,
@@ -7866,7 +7601,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_7/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Rank_7/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420381",
                   "transform": {
                     "position": [
                       0,
@@ -7891,7 +7625,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_7",
               "name": "Rank_7",
               "path": "Root/ChessAssembly/Rank_7",
-              "protocolEntityId": "entity_123253187594420380",
               "transform": {
                 "position": [
                   0,
@@ -7921,7 +7654,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_8/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Rank_8/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420390",
                   "transform": {
                     "position": [
                       0,
@@ -7946,7 +7678,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_8",
               "name": "Rank_8",
               "path": "Root/ChessAssembly/Rank_8",
-              "protocolEntityId": "entity_123253187594420389",
               "transform": {
                 "position": [
                   0,
@@ -7976,7 +7707,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_9/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Rank_9/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420399",
                   "transform": {
                     "position": [
                       0,
@@ -8001,7 +7731,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Rank_9",
               "name": "Rank_9",
               "path": "Root/ChessAssembly/Rank_9",
-              "protocolEntityId": "entity_123253187594420398",
               "transform": {
                 "position": [
                   0,
@@ -8031,7 +7760,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_0_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_0_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420431",
                   "transform": {
                     "position": [
                       0,
@@ -8056,7 +7784,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_0_0",
               "name": "File_0_0",
               "path": "Root/ChessAssembly/File_0_0",
-              "protocolEntityId": "entity_123253187594420430",
               "transform": {
                 "position": [
                   -0.47999998927116394,
@@ -8086,7 +7813,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_0_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_0_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420440",
                   "transform": {
                     "position": [
                       0,
@@ -8111,7 +7837,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_0_1",
               "name": "File_0_1",
               "path": "Root/ChessAssembly/File_0_1",
-              "protocolEntityId": "entity_123253187594420439",
               "transform": {
                 "position": [
                   -0.47999998927116394,
@@ -8141,7 +7866,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_1_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_1_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420449",
                   "transform": {
                     "position": [
                       0,
@@ -8166,7 +7890,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_1_0",
               "name": "File_1_0",
               "path": "Root/ChessAssembly/File_1_0",
-              "protocolEntityId": "entity_123253187594420448",
               "transform": {
                 "position": [
                   -0.36000001430511475,
@@ -8196,7 +7919,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_1_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_1_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420458",
                   "transform": {
                     "position": [
                       0,
@@ -8221,7 +7943,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_1_1",
               "name": "File_1_1",
               "path": "Root/ChessAssembly/File_1_1",
-              "protocolEntityId": "entity_123253187594420457",
               "transform": {
                 "position": [
                   -0.36000001430511475,
@@ -8251,7 +7972,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_2_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_2_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420467",
                   "transform": {
                     "position": [
                       0,
@@ -8276,7 +7996,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_2_0",
               "name": "File_2_0",
               "path": "Root/ChessAssembly/File_2_0",
-              "protocolEntityId": "entity_123253187594420466",
               "transform": {
                 "position": [
                   -0.23999999463558197,
@@ -8306,7 +8025,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_2_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_2_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420476",
                   "transform": {
                     "position": [
                       0,
@@ -8331,7 +8049,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_2_1",
               "name": "File_2_1",
               "path": "Root/ChessAssembly/File_2_1",
-              "protocolEntityId": "entity_123253187594420475",
               "transform": {
                 "position": [
                   -0.23999999463558197,
@@ -8361,7 +8078,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_3_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_3_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420485",
                   "transform": {
                     "position": [
                       0,
@@ -8386,7 +8102,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_3_0",
               "name": "File_3_0",
               "path": "Root/ChessAssembly/File_3_0",
-              "protocolEntityId": "entity_123253187594420484",
               "transform": {
                 "position": [
                   -0.11999999731779099,
@@ -8416,7 +8131,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_3_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_3_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420494",
                   "transform": {
                     "position": [
                       0,
@@ -8441,7 +8155,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_3_1",
               "name": "File_3_1",
               "path": "Root/ChessAssembly/File_3_1",
-              "protocolEntityId": "entity_123253187594420493",
               "transform": {
                 "position": [
                   -0.11999999731779099,
@@ -8471,7 +8184,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_4_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_4_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420503",
                   "transform": {
                     "position": [
                       0,
@@ -8496,7 +8208,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_4_0",
               "name": "File_4_0",
               "path": "Root/ChessAssembly/File_4_0",
-              "protocolEntityId": "entity_123253187594420502",
               "transform": {
                 "position": [
                   0,
@@ -8526,7 +8237,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_4_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_4_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420512",
                   "transform": {
                     "position": [
                       0,
@@ -8551,7 +8261,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_4_1",
               "name": "File_4_1",
               "path": "Root/ChessAssembly/File_4_1",
-              "protocolEntityId": "entity_123253187594420511",
               "transform": {
                 "position": [
                   0,
@@ -8581,7 +8290,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_5_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_5_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420521",
                   "transform": {
                     "position": [
                       0,
@@ -8606,7 +8314,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_5_0",
               "name": "File_5_0",
               "path": "Root/ChessAssembly/File_5_0",
-              "protocolEntityId": "entity_123253187594420520",
               "transform": {
                 "position": [
                   0.11999999731779099,
@@ -8636,7 +8343,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_5_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_5_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420530",
                   "transform": {
                     "position": [
                       0,
@@ -8661,7 +8367,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_5_1",
               "name": "File_5_1",
               "path": "Root/ChessAssembly/File_5_1",
-              "protocolEntityId": "entity_123253187594420529",
               "transform": {
                 "position": [
                   0.11999999731779099,
@@ -8691,7 +8396,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_6_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_6_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420539",
                   "transform": {
                     "position": [
                       0,
@@ -8716,7 +8420,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_6_0",
               "name": "File_6_0",
               "path": "Root/ChessAssembly/File_6_0",
-              "protocolEntityId": "entity_123253187594420538",
               "transform": {
                 "position": [
                   0.23999999463558197,
@@ -8746,7 +8449,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_6_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_6_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420548",
                   "transform": {
                     "position": [
                       0,
@@ -8771,7 +8473,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_6_1",
               "name": "File_6_1",
               "path": "Root/ChessAssembly/File_6_1",
-              "protocolEntityId": "entity_123253187594420547",
               "transform": {
                 "position": [
                   0.23999999463558197,
@@ -8801,7 +8502,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_7_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_7_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420557",
                   "transform": {
                     "position": [
                       0,
@@ -8826,7 +8526,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_7_0",
               "name": "File_7_0",
               "path": "Root/ChessAssembly/File_7_0",
-              "protocolEntityId": "entity_123253187594420556",
               "transform": {
                 "position": [
                   0.36000001430511475,
@@ -8856,7 +8555,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_7_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_7_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420566",
                   "transform": {
                     "position": [
                       0,
@@ -8881,7 +8579,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_7_1",
               "name": "File_7_1",
               "path": "Root/ChessAssembly/File_7_1",
-              "protocolEntityId": "entity_123253187594420565",
               "transform": {
                 "position": [
                   0.36000001430511475,
@@ -8911,7 +8608,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_8_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_8_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420575",
                   "transform": {
                     "position": [
                       0,
@@ -8936,7 +8632,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_8_0",
               "name": "File_8_0",
               "path": "Root/ChessAssembly/File_8_0",
-              "protocolEntityId": "entity_123253187594420574",
               "transform": {
                 "position": [
                   0.47999998927116394,
@@ -8966,7 +8661,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/File_8_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/File_8_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420584",
                   "transform": {
                     "position": [
                       0,
@@ -8991,7 +8685,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/File_8_1",
               "name": "File_8_1",
               "path": "Root/ChessAssembly/File_8_1",
-              "protocolEntityId": "entity_123253187594420583",
               "transform": {
                 "position": [
                   0.47999998927116394,
@@ -9021,7 +8714,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/RiverSide_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/RiverSide_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420593",
                   "transform": {
                     "position": [
                       0,
@@ -9046,7 +8738,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/RiverSide_0",
               "name": "RiverSide_0",
               "path": "Root/ChessAssembly/RiverSide_0",
-              "protocolEntityId": "entity_123253187594420592",
               "transform": {
                 "position": [
                   -0.47999998927116394,
@@ -9076,7 +8767,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/RiverSide_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/RiverSide_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420602",
                   "transform": {
                     "position": [
                       0,
@@ -9101,7 +8791,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/RiverSide_1",
               "name": "RiverSide_1",
               "path": "Root/ChessAssembly/RiverSide_1",
-              "protocolEntityId": "entity_123253187594420601",
               "transform": {
                 "position": [
                   0.47999998927116394,
@@ -9131,7 +8820,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Palace_0_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Palace_0_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420611",
                   "transform": {
                     "position": [
                       0,
@@ -9156,7 +8844,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Palace_0_0",
               "name": "Palace_0_0",
               "path": "Root/ChessAssembly/Palace_0_0",
-              "protocolEntityId": "entity_123253187594420610",
               "transform": {
                 "position": [
                   0,
@@ -9166,7 +8853,7 @@
                 "rotation": [
                   0,
                   0,
-                  0.3826834559440613,
+                  0.38268348574638367,
                   0.9238795042037964
                 ],
                 "scale": [
@@ -9186,7 +8873,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Palace_0_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Palace_0_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420620",
                   "transform": {
                     "position": [
                       0,
@@ -9211,7 +8897,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Palace_0_1",
               "name": "Palace_0_1",
               "path": "Root/ChessAssembly/Palace_0_1",
-              "protocolEntityId": "entity_123253187594420619",
               "transform": {
                 "position": [
                   0,
@@ -9221,7 +8906,7 @@
                 "rotation": [
                   0,
                   0,
-                  -0.3826834559440613,
+                  -0.38268348574638367,
                   0.9238795042037964
                 ],
                 "scale": [
@@ -9241,7 +8926,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Palace_1_0/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Palace_1_0/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420629",
                   "transform": {
                     "position": [
                       0,
@@ -9266,7 +8950,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Palace_1_0",
               "name": "Palace_1_0",
               "path": "Root/ChessAssembly/Palace_1_0",
-              "protocolEntityId": "entity_123253187594420628",
               "transform": {
                 "position": [
                   0,
@@ -9276,7 +8959,7 @@
                 "rotation": [
                   0,
                   0,
-                  0.3826834559440613,
+                  0.38268348574638367,
                   0.9238795042037964
                 ],
                 "scale": [
@@ -9296,7 +8979,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Palace_1_1/DefaultMaterial",
                   "name": "DefaultMaterial",
                   "path": "Root/ChessAssembly/Palace_1_1/DefaultMaterial",
-                  "protocolEntityId": "entity_123253187594420638",
                   "transform": {
                     "position": [
                       0,
@@ -9321,7 +9003,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Palace_1_1",
               "name": "Palace_1_1",
               "path": "Root/ChessAssembly/Palace_1_1",
-              "protocolEntityId": "entity_123253187594420637",
               "transform": {
                 "position": [
                   0,
@@ -9331,7 +9012,7 @@
                 "rotation": [
                   0,
                   0,
-                  -0.3826834559440613,
+                  -0.38268348574638367,
                   0.9238795042037964
                 ],
                 "scale": [
@@ -9354,7 +9035,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_0/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_0/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420689",
                       "transform": {
                         "position": [
                           0,
@@ -9379,7 +9059,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_0/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_0/Rim",
-                  "protocolEntityId": "entity_123253187594420688",
                   "transform": {
                     "position": [
                       0,
@@ -9409,7 +9088,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_0/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_0/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420698",
                       "transform": {
                         "position": [
                           0,
@@ -9434,7 +9112,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_0/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_0/Face",
-                  "protocolEntityId": "entity_123253187594420697",
                   "transform": {
                     "position": [
                       0,
@@ -9459,7 +9136,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_0",
               "name": "Red_0",
               "path": "Root/ChessAssembly/Red_0",
-              "protocolEntityId": "entity_123253187594420680",
               "transform": {
                 "position": [
                   -0.47999998927116394,
@@ -9492,7 +9168,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_1/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_1/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420708",
                       "transform": {
                         "position": [
                           0,
@@ -9517,7 +9192,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_1/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_1/Rim",
-                  "protocolEntityId": "entity_123253187594420707",
                   "transform": {
                     "position": [
                       0,
@@ -9547,7 +9221,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_1/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_1/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420717",
                       "transform": {
                         "position": [
                           0,
@@ -9572,7 +9245,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_1/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_1/Face",
-                  "protocolEntityId": "entity_123253187594420716",
                   "transform": {
                     "position": [
                       0,
@@ -9597,7 +9269,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_1",
               "name": "Red_1",
               "path": "Root/ChessAssembly/Red_1",
-              "protocolEntityId": "entity_123253187594420699",
               "transform": {
                 "position": [
                   -0.36000001430511475,
@@ -9630,7 +9301,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_2/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_2/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420727",
                       "transform": {
                         "position": [
                           0,
@@ -9655,7 +9325,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_2/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_2/Rim",
-                  "protocolEntityId": "entity_123253187594420726",
                   "transform": {
                     "position": [
                       0,
@@ -9685,7 +9354,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_2/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_2/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420736",
                       "transform": {
                         "position": [
                           0,
@@ -9710,7 +9378,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_2/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_2/Face",
-                  "protocolEntityId": "entity_123253187594420735",
                   "transform": {
                     "position": [
                       0,
@@ -9735,7 +9402,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_2",
               "name": "Red_2",
               "path": "Root/ChessAssembly/Red_2",
-              "protocolEntityId": "entity_123253187594420718",
               "transform": {
                 "position": [
                   -0.23999999463558197,
@@ -9768,7 +9434,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_3/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_3/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420746",
                       "transform": {
                         "position": [
                           0,
@@ -9793,7 +9458,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_3/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_3/Rim",
-                  "protocolEntityId": "entity_123253187594420745",
                   "transform": {
                     "position": [
                       0,
@@ -9823,7 +9487,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_3/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_3/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420755",
                       "transform": {
                         "position": [
                           0,
@@ -9848,7 +9511,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_3/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_3/Face",
-                  "protocolEntityId": "entity_123253187594420754",
                   "transform": {
                     "position": [
                       0,
@@ -9873,7 +9535,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_3",
               "name": "Red_3",
               "path": "Root/ChessAssembly/Red_3",
-              "protocolEntityId": "entity_123253187594420737",
               "transform": {
                 "position": [
                   -0.11999999731779099,
@@ -9906,7 +9567,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_4/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_4/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420765",
                       "transform": {
                         "position": [
                           0,
@@ -9931,7 +9591,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_4/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_4/Rim",
-                  "protocolEntityId": "entity_123253187594420764",
                   "transform": {
                     "position": [
                       0,
@@ -9961,7 +9620,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_4/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_4/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420774",
                       "transform": {
                         "position": [
                           0,
@@ -9986,7 +9644,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_4/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_4/Face",
-                  "protocolEntityId": "entity_123253187594420773",
                   "transform": {
                     "position": [
                       0,
@@ -10011,7 +9668,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_4",
               "name": "Red_4",
               "path": "Root/ChessAssembly/Red_4",
-              "protocolEntityId": "entity_123253187594420756",
               "transform": {
                 "position": [
                   0,
@@ -10044,7 +9700,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_5/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_5/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420784",
                       "transform": {
                         "position": [
                           0,
@@ -10069,7 +9724,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_5/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_5/Rim",
-                  "protocolEntityId": "entity_123253187594420783",
                   "transform": {
                     "position": [
                       0,
@@ -10099,7 +9753,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_5/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_5/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420793",
                       "transform": {
                         "position": [
                           0,
@@ -10124,7 +9777,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_5/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_5/Face",
-                  "protocolEntityId": "entity_123253187594420792",
                   "transform": {
                     "position": [
                       0,
@@ -10149,7 +9801,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_5",
               "name": "Red_5",
               "path": "Root/ChessAssembly/Red_5",
-              "protocolEntityId": "entity_123253187594420775",
               "transform": {
                 "position": [
                   0.11999999731779099,
@@ -10182,7 +9833,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_6/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_6/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420803",
                       "transform": {
                         "position": [
                           0,
@@ -10207,7 +9857,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_6/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_6/Rim",
-                  "protocolEntityId": "entity_123253187594420802",
                   "transform": {
                     "position": [
                       0,
@@ -10237,7 +9886,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_6/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_6/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420812",
                       "transform": {
                         "position": [
                           0,
@@ -10262,7 +9910,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_6/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_6/Face",
-                  "protocolEntityId": "entity_123253187594420811",
                   "transform": {
                     "position": [
                       0,
@@ -10287,7 +9934,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_6",
               "name": "Red_6",
               "path": "Root/ChessAssembly/Red_6",
-              "protocolEntityId": "entity_123253187594420794",
               "transform": {
                 "position": [
                   0.23999999463558197,
@@ -10320,7 +9966,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_7/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_7/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420822",
                       "transform": {
                         "position": [
                           0,
@@ -10345,7 +9990,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_7/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_7/Rim",
-                  "protocolEntityId": "entity_123253187594420821",
                   "transform": {
                     "position": [
                       0,
@@ -10375,7 +10019,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_7/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_7/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420831",
                       "transform": {
                         "position": [
                           0,
@@ -10400,7 +10043,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_7/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_7/Face",
-                  "protocolEntityId": "entity_123253187594420830",
                   "transform": {
                     "position": [
                       0,
@@ -10425,7 +10067,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_7",
               "name": "Red_7",
               "path": "Root/ChessAssembly/Red_7",
-              "protocolEntityId": "entity_123253187594420813",
               "transform": {
                 "position": [
                   0.36000001430511475,
@@ -10458,7 +10099,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_8/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_8/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420904",
                       "transform": {
                         "position": [
                           0,
@@ -10483,7 +10123,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_8/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_8/Rim",
-                  "protocolEntityId": "entity_123253187594420903",
                   "transform": {
                     "position": [
                       0,
@@ -10513,7 +10152,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_8/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_8/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420913",
                       "transform": {
                         "position": [
                           0,
@@ -10538,7 +10176,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_8/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_8/Face",
-                  "protocolEntityId": "entity_123253187594420912",
                   "transform": {
                     "position": [
                       0,
@@ -10563,7 +10200,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_8",
               "name": "Red_8",
               "path": "Root/ChessAssembly/Red_8",
-              "protocolEntityId": "entity_123253187594420895",
               "transform": {
                 "position": [
                   0.47999998927116394,
@@ -10596,7 +10232,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_9/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_9/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420923",
                       "transform": {
                         "position": [
                           0,
@@ -10621,7 +10256,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_9/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_9/Rim",
-                  "protocolEntityId": "entity_123253187594420922",
                   "transform": {
                     "position": [
                       0,
@@ -10651,7 +10285,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_9/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_9/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420932",
                       "transform": {
                         "position": [
                           0,
@@ -10676,7 +10309,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_9/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_9/Face",
-                  "protocolEntityId": "entity_123253187594420931",
                   "transform": {
                     "position": [
                       0,
@@ -10701,7 +10333,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_9",
               "name": "Red_9",
               "path": "Root/ChessAssembly/Red_9",
-              "protocolEntityId": "entity_123253187594420914",
               "transform": {
                 "position": [
                   -0.36000001430511475,
@@ -10734,7 +10365,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_10/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_10/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420942",
                       "transform": {
                         "position": [
                           0,
@@ -10759,7 +10389,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_10/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_10/Rim",
-                  "protocolEntityId": "entity_123253187594420941",
                   "transform": {
                     "position": [
                       0,
@@ -10789,7 +10418,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_10/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_10/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420951",
                       "transform": {
                         "position": [
                           0,
@@ -10814,7 +10442,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_10/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_10/Face",
-                  "protocolEntityId": "entity_123253187594420950",
                   "transform": {
                     "position": [
                       0,
@@ -10839,7 +10466,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_10",
               "name": "Red_10",
               "path": "Root/ChessAssembly/Red_10",
-              "protocolEntityId": "entity_123253187594420933",
               "transform": {
                 "position": [
                   0.36000001430511475,
@@ -10872,7 +10498,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_11/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_11/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420961",
                       "transform": {
                         "position": [
                           0,
@@ -10897,7 +10522,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_11/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_11/Rim",
-                  "protocolEntityId": "entity_123253187594420960",
                   "transform": {
                     "position": [
                       0,
@@ -10927,7 +10551,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_11/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_11/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420970",
                       "transform": {
                         "position": [
                           0,
@@ -10952,7 +10575,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_11/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_11/Face",
-                  "protocolEntityId": "entity_123253187594420969",
                   "transform": {
                     "position": [
                       0,
@@ -10977,7 +10599,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_11",
               "name": "Red_11",
               "path": "Root/ChessAssembly/Red_11",
-              "protocolEntityId": "entity_123253187594420952",
               "transform": {
                 "position": [
                   -0.47999998927116394,
@@ -11010,7 +10631,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_12/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_12/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420980",
                       "transform": {
                         "position": [
                           0,
@@ -11035,7 +10655,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_12/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_12/Rim",
-                  "protocolEntityId": "entity_123253187594420979",
                   "transform": {
                     "position": [
                       0,
@@ -11065,7 +10684,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_12/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_12/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420989",
                       "transform": {
                         "position": [
                           0,
@@ -11090,7 +10708,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_12/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_12/Face",
-                  "protocolEntityId": "entity_123253187594420988",
                   "transform": {
                     "position": [
                       0,
@@ -11115,7 +10732,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_12",
               "name": "Red_12",
               "path": "Root/ChessAssembly/Red_12",
-              "protocolEntityId": "entity_123253187594420971",
               "transform": {
                 "position": [
                   -0.23999999463558197,
@@ -11148,7 +10764,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_13/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_13/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594420999",
                       "transform": {
                         "position": [
                           0,
@@ -11173,7 +10788,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_13/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_13/Rim",
-                  "protocolEntityId": "entity_123253187594420998",
                   "transform": {
                     "position": [
                       0,
@@ -11203,7 +10817,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_13/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_13/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421008",
                       "transform": {
                         "position": [
                           0,
@@ -11228,7 +10841,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_13/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_13/Face",
-                  "protocolEntityId": "entity_123253187594421007",
                   "transform": {
                     "position": [
                       0,
@@ -11253,7 +10865,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_13",
               "name": "Red_13",
               "path": "Root/ChessAssembly/Red_13",
-              "protocolEntityId": "entity_123253187594420990",
               "transform": {
                 "position": [
                   0,
@@ -11286,7 +10897,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_14/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_14/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421018",
                       "transform": {
                         "position": [
                           0,
@@ -11311,7 +10921,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_14/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_14/Rim",
-                  "protocolEntityId": "entity_123253187594421017",
                   "transform": {
                     "position": [
                       0,
@@ -11341,7 +10950,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_14/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_14/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421027",
                       "transform": {
                         "position": [
                           0,
@@ -11366,7 +10974,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_14/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_14/Face",
-                  "protocolEntityId": "entity_123253187594421026",
                   "transform": {
                     "position": [
                       0,
@@ -11391,7 +10998,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_14",
               "name": "Red_14",
               "path": "Root/ChessAssembly/Red_14",
-              "protocolEntityId": "entity_123253187594421009",
               "transform": {
                 "position": [
                   0.23999999463558197,
@@ -11424,7 +11030,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_15/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_15/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421037",
                       "transform": {
                         "position": [
                           0,
@@ -11449,7 +11054,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_15/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Red_15/Rim",
-                  "protocolEntityId": "entity_123253187594421036",
                   "transform": {
                     "position": [
                       0,
@@ -11479,7 +11083,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_15/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Red_15/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421046",
                       "transform": {
                         "position": [
                           0,
@@ -11504,7 +11107,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_15/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Red_15/Face",
-                  "protocolEntityId": "entity_123253187594421045",
                   "transform": {
                     "position": [
                       0,
@@ -11529,7 +11131,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Red_15",
               "name": "Red_15",
               "path": "Root/ChessAssembly/Red_15",
-              "protocolEntityId": "entity_123253187594421028",
               "transform": {
                 "position": [
                   0.47999998927116394,
@@ -11562,7 +11163,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_0/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_0/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421129",
                       "transform": {
                         "position": [
                           0,
@@ -11587,7 +11187,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_0/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_0/Rim",
-                  "protocolEntityId": "entity_123253187594421128",
                   "transform": {
                     "position": [
                       0,
@@ -11617,7 +11216,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_0/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_0/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421138",
                       "transform": {
                         "position": [
                           0,
@@ -11642,7 +11240,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_0/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_0/Face",
-                  "protocolEntityId": "entity_123253187594421137",
                   "transform": {
                     "position": [
                       0,
@@ -11667,7 +11264,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_0",
               "name": "Black_0",
               "path": "Root/ChessAssembly/Black_0",
-              "protocolEntityId": "entity_123253187594421120",
               "transform": {
                 "position": [
                   -0.47999998927116394,
@@ -11700,7 +11296,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_1/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_1/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421148",
                       "transform": {
                         "position": [
                           0,
@@ -11725,7 +11320,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_1/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_1/Rim",
-                  "protocolEntityId": "entity_123253187594421147",
                   "transform": {
                     "position": [
                       0,
@@ -11755,7 +11349,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_1/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_1/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421157",
                       "transform": {
                         "position": [
                           0,
@@ -11780,7 +11373,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_1/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_1/Face",
-                  "protocolEntityId": "entity_123253187594421156",
                   "transform": {
                     "position": [
                       0,
@@ -11805,7 +11397,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_1",
               "name": "Black_1",
               "path": "Root/ChessAssembly/Black_1",
-              "protocolEntityId": "entity_123253187594421139",
               "transform": {
                 "position": [
                   -0.36000001430511475,
@@ -11838,7 +11429,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_2/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_2/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421167",
                       "transform": {
                         "position": [
                           0,
@@ -11863,7 +11453,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_2/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_2/Rim",
-                  "protocolEntityId": "entity_123253187594421166",
                   "transform": {
                     "position": [
                       0,
@@ -11893,7 +11482,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_2/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_2/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421176",
                       "transform": {
                         "position": [
                           0,
@@ -11918,7 +11506,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_2/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_2/Face",
-                  "protocolEntityId": "entity_123253187594421175",
                   "transform": {
                     "position": [
                       0,
@@ -11943,7 +11530,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_2",
               "name": "Black_2",
               "path": "Root/ChessAssembly/Black_2",
-              "protocolEntityId": "entity_123253187594421158",
               "transform": {
                 "position": [
                   -0.23999999463558197,
@@ -11976,7 +11562,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_3/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_3/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421186",
                       "transform": {
                         "position": [
                           0,
@@ -12001,7 +11586,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_3/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_3/Rim",
-                  "protocolEntityId": "entity_123253187594421185",
                   "transform": {
                     "position": [
                       0,
@@ -12031,7 +11615,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_3/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_3/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421195",
                       "transform": {
                         "position": [
                           0,
@@ -12056,7 +11639,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_3/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_3/Face",
-                  "protocolEntityId": "entity_123253187594421194",
                   "transform": {
                     "position": [
                       0,
@@ -12081,7 +11663,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_3",
               "name": "Black_3",
               "path": "Root/ChessAssembly/Black_3",
-              "protocolEntityId": "entity_123253187594421177",
               "transform": {
                 "position": [
                   -0.11999999731779099,
@@ -12114,7 +11695,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_4/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_4/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421205",
                       "transform": {
                         "position": [
                           0,
@@ -12139,7 +11719,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_4/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_4/Rim",
-                  "protocolEntityId": "entity_123253187594421204",
                   "transform": {
                     "position": [
                       0,
@@ -12169,7 +11748,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_4/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_4/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421214",
                       "transform": {
                         "position": [
                           0,
@@ -12194,7 +11772,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_4/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_4/Face",
-                  "protocolEntityId": "entity_123253187594421213",
                   "transform": {
                     "position": [
                       0,
@@ -12219,7 +11796,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_4",
               "name": "Black_4",
               "path": "Root/ChessAssembly/Black_4",
-              "protocolEntityId": "entity_123253187594421196",
               "transform": {
                 "position": [
                   0,
@@ -12252,7 +11828,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_5/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_5/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421224",
                       "transform": {
                         "position": [
                           0,
@@ -12277,7 +11852,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_5/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_5/Rim",
-                  "protocolEntityId": "entity_123253187594421223",
                   "transform": {
                     "position": [
                       0,
@@ -12307,7 +11881,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_5/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_5/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421233",
                       "transform": {
                         "position": [
                           0,
@@ -12332,7 +11905,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_5/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_5/Face",
-                  "protocolEntityId": "entity_123253187594421232",
                   "transform": {
                     "position": [
                       0,
@@ -12357,7 +11929,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_5",
               "name": "Black_5",
               "path": "Root/ChessAssembly/Black_5",
-              "protocolEntityId": "entity_123253187594421215",
               "transform": {
                 "position": [
                   0.11999999731779099,
@@ -12390,7 +11961,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_6/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_6/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421243",
                       "transform": {
                         "position": [
                           0,
@@ -12415,7 +11985,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_6/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_6/Rim",
-                  "protocolEntityId": "entity_123253187594421242",
                   "transform": {
                     "position": [
                       0,
@@ -12445,7 +12014,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_6/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_6/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421252",
                       "transform": {
                         "position": [
                           0,
@@ -12470,7 +12038,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_6/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_6/Face",
-                  "protocolEntityId": "entity_123253187594421251",
                   "transform": {
                     "position": [
                       0,
@@ -12495,7 +12062,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_6",
               "name": "Black_6",
               "path": "Root/ChessAssembly/Black_6",
-              "protocolEntityId": "entity_123253187594421234",
               "transform": {
                 "position": [
                   0.23999999463558197,
@@ -12528,7 +12094,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_7/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_7/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421262",
                       "transform": {
                         "position": [
                           0,
@@ -12553,7 +12118,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_7/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_7/Rim",
-                  "protocolEntityId": "entity_123253187594421261",
                   "transform": {
                     "position": [
                       0,
@@ -12583,7 +12147,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_7/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_7/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421271",
                       "transform": {
                         "position": [
                           0,
@@ -12608,7 +12171,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_7/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_7/Face",
-                  "protocolEntityId": "entity_123253187594421270",
                   "transform": {
                     "position": [
                       0,
@@ -12633,7 +12195,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_7",
               "name": "Black_7",
               "path": "Root/ChessAssembly/Black_7",
-              "protocolEntityId": "entity_123253187594421253",
               "transform": {
                 "position": [
                   0.36000001430511475,
@@ -12666,7 +12227,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_8/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_8/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421370",
                       "transform": {
                         "position": [
                           0,
@@ -12691,7 +12251,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_8/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_8/Rim",
-                  "protocolEntityId": "entity_123253187594421369",
                   "transform": {
                     "position": [
                       0,
@@ -12721,7 +12280,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_8/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_8/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421379",
                       "transform": {
                         "position": [
                           0,
@@ -12746,7 +12304,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_8/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_8/Face",
-                  "protocolEntityId": "entity_123253187594421378",
                   "transform": {
                     "position": [
                       0,
@@ -12771,7 +12328,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_8",
               "name": "Black_8",
               "path": "Root/ChessAssembly/Black_8",
-              "protocolEntityId": "entity_123253187594421361",
               "transform": {
                 "position": [
                   0.47999998927116394,
@@ -12804,7 +12360,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_9/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_9/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421389",
                       "transform": {
                         "position": [
                           0,
@@ -12829,7 +12384,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_9/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_9/Rim",
-                  "protocolEntityId": "entity_123253187594421388",
                   "transform": {
                     "position": [
                       0,
@@ -12859,7 +12413,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_9/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_9/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421398",
                       "transform": {
                         "position": [
                           0,
@@ -12884,7 +12437,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_9/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_9/Face",
-                  "protocolEntityId": "entity_123253187594421397",
                   "transform": {
                     "position": [
                       0,
@@ -12909,7 +12461,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_9",
               "name": "Black_9",
               "path": "Root/ChessAssembly/Black_9",
-              "protocolEntityId": "entity_123253187594421380",
               "transform": {
                 "position": [
                   -0.36000001430511475,
@@ -12942,7 +12493,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_10/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_10/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421408",
                       "transform": {
                         "position": [
                           0,
@@ -12967,7 +12517,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_10/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_10/Rim",
-                  "protocolEntityId": "entity_123253187594421407",
                   "transform": {
                     "position": [
                       0,
@@ -12997,7 +12546,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_10/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_10/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421417",
                       "transform": {
                         "position": [
                           0,
@@ -13022,7 +12570,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_10/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_10/Face",
-                  "protocolEntityId": "entity_123253187594421416",
                   "transform": {
                     "position": [
                       0,
@@ -13047,7 +12594,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_10",
               "name": "Black_10",
               "path": "Root/ChessAssembly/Black_10",
-              "protocolEntityId": "entity_123253187594421399",
               "transform": {
                 "position": [
                   0.36000001430511475,
@@ -13080,7 +12626,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_11/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_11/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421427",
                       "transform": {
                         "position": [
                           0,
@@ -13105,7 +12650,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_11/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_11/Rim",
-                  "protocolEntityId": "entity_123253187594421426",
                   "transform": {
                     "position": [
                       0,
@@ -13135,7 +12679,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_11/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_11/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421436",
                       "transform": {
                         "position": [
                           0,
@@ -13160,7 +12703,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_11/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_11/Face",
-                  "protocolEntityId": "entity_123253187594421435",
                   "transform": {
                     "position": [
                       0,
@@ -13185,7 +12727,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_11",
               "name": "Black_11",
               "path": "Root/ChessAssembly/Black_11",
-              "protocolEntityId": "entity_123253187594421418",
               "transform": {
                 "position": [
                   -0.47999998927116394,
@@ -13218,7 +12759,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_12/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_12/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421446",
                       "transform": {
                         "position": [
                           0,
@@ -13243,7 +12783,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_12/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_12/Rim",
-                  "protocolEntityId": "entity_123253187594421445",
                   "transform": {
                     "position": [
                       0,
@@ -13273,7 +12812,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_12/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_12/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421455",
                       "transform": {
                         "position": [
                           0,
@@ -13298,7 +12836,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_12/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_12/Face",
-                  "protocolEntityId": "entity_123253187594421454",
                   "transform": {
                     "position": [
                       0,
@@ -13323,7 +12860,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_12",
               "name": "Black_12",
               "path": "Root/ChessAssembly/Black_12",
-              "protocolEntityId": "entity_123253187594421437",
               "transform": {
                 "position": [
                   -0.23999999463558197,
@@ -13356,7 +12892,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_13/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_13/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421465",
                       "transform": {
                         "position": [
                           0,
@@ -13381,7 +12916,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_13/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_13/Rim",
-                  "protocolEntityId": "entity_123253187594421464",
                   "transform": {
                     "position": [
                       0,
@@ -13411,7 +12945,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_13/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_13/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421474",
                       "transform": {
                         "position": [
                           0,
@@ -13436,7 +12969,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_13/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_13/Face",
-                  "protocolEntityId": "entity_123253187594421473",
                   "transform": {
                     "position": [
                       0,
@@ -13461,7 +12993,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_13",
               "name": "Black_13",
               "path": "Root/ChessAssembly/Black_13",
-              "protocolEntityId": "entity_123253187594421456",
               "transform": {
                 "position": [
                   0,
@@ -13494,7 +13025,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_14/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_14/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421484",
                       "transform": {
                         "position": [
                           0,
@@ -13519,7 +13049,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_14/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_14/Rim",
-                  "protocolEntityId": "entity_123253187594421483",
                   "transform": {
                     "position": [
                       0,
@@ -13549,7 +13078,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_14/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_14/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421493",
                       "transform": {
                         "position": [
                           0,
@@ -13574,7 +13102,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_14/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_14/Face",
-                  "protocolEntityId": "entity_123253187594421492",
                   "transform": {
                     "position": [
                       0,
@@ -13599,7 +13126,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_14",
               "name": "Black_14",
               "path": "Root/ChessAssembly/Black_14",
-              "protocolEntityId": "entity_123253187594421475",
               "transform": {
                 "position": [
                   0.23999999463558197,
@@ -13632,7 +13158,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_15/Rim/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_15/Rim/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421503",
                       "transform": {
                         "position": [
                           0,
@@ -13657,7 +13182,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_15/Rim",
                   "name": "Rim",
                   "path": "Root/ChessAssembly/Black_15/Rim",
-                  "protocolEntityId": "entity_123253187594421502",
                   "transform": {
                     "position": [
                       0,
@@ -13687,7 +13211,6 @@
                       "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_15/Face/DefaultMaterial",
                       "name": "DefaultMaterial",
                       "path": "Root/ChessAssembly/Black_15/Face/DefaultMaterial",
-                      "protocolEntityId": "entity_123253187594421512",
                       "transform": {
                         "position": [
                           0,
@@ -13712,7 +13235,6 @@
                   "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_15/Face",
                   "name": "Face",
                   "path": "Root/ChessAssembly/Black_15/Face",
-                  "protocolEntityId": "entity_123253187594421511",
                   "transform": {
                     "position": [
                       0,
@@ -13737,7 +13259,6 @@
               "entityId": "scene:xiangqitable:Root/ChessAssembly/Black_15",
               "name": "Black_15",
               "path": "Root/ChessAssembly/Black_15",
-              "protocolEntityId": "entity_123253187594421494",
               "transform": {
                 "position": [
                   0.47999998927116394,
@@ -13762,7 +13283,6 @@
           "entityId": "scene:xiangqitable:Root/ChessAssembly",
           "name": "ChessAssembly",
           "path": "Root/ChessAssembly",
-          "protocolEntityId": "entity_123253187594420264",
           "transform": {
             "position": [
               0,
